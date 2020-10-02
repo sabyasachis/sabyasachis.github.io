@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vineetha Kondameedi | Sabyasachi Sahoo</title>
+    <link>/authors/vineetha-kondameedi/</link>
+      <atom:link href="/authors/vineetha-kondameedi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vineetha Kondameedi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Vineetha Kondameedi</title>
+      <link>/authors/vineetha-kondameedi/</link>
+    </image>
+    
+    <item>
+      <title>CID : Captioning for Interpretability and Disentanglement</title>
+      <link>/publication/cid/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/cid/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
+      <link>/publication/hrhq/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/hrhq/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
+      <link>/publication/rude/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/rude/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
+      <link>/publication/dslr/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/dslr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAIR : Frugal ADAS for Indian Roads</title>
+      <link>/publication/fair/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing Semantic relationships among object classes using Deep Networks to Image Classification</title>
+      <link>/publication/semantic-context/</link>
+      <pubDate>Tue, 05 May 2015 00:00:00 +0530</pubDate>
+      <guid>/publication/semantic-context/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
