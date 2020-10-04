@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classification | Sabyasachi Sahoo</title>
+    <link>/tags/classification/</link>
+      <atom:link href="/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Classification</title>
+      <link>/tags/classification/</link>
+    </image>
+    
+    <item>
+      <title>COVID-SWIFT : Simple Whatsapp based x-ray Image interpretation at your Finger Tips for potential COVID19 patients</title>
+      <link>/publication/covid-swift/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/covid-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Sequential Data Streaming</title>
+      <link>/talk/continual/</link>
+      <pubDate>Thu, 09 Jul 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/continual/</guid>
+      <description>&lt;p&gt;In this talk, we briefly present how we can use continual learning for sequential online data without catastrophic forgetting. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reviewing Multi Task Learning</title>
+      <link>/talk/mtl/</link>
+      <pubDate>Mon, 15 Jun 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/mtl/</guid>
+      <description>&lt;p&gt;Literature review of Multi Task Learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning</title>
+      <link>/talk/introdl/</link>
+      <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/introdl/</guid>
+      <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Depth Map for Image Classification</title>
+      <link>/project/depth-map/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/depth-map/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Improving image classification using depth maps&lt;/li&gt;
+&lt;li&gt;An end-to-end Google colab tutorial project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Establishing Semantic relationships among object classes using Deep Networks to Image Classification</title>
+      <link>/publication/semantic-context/</link>
+      <pubDate>Tue, 05 May 2015 00:00:00 +0530</pubDate>
+      <guid>/publication/semantic-context/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

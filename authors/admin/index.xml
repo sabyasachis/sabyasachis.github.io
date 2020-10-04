@@ -7,7 +7,7 @@
     <description>Sabyasachi Sahoo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/authors/admin/avatar_hu241328ad6aa8f3c79e85b6de53438f2c_19932_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/authors/admin/avatar_hu69e8a78a30c2c8b3474f24f03c7454fe_1655071_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Sabyasachi Sahoo</title>
       <link>/authors/admin/</link>
     </image>
@@ -65,6 +65,33 @@
     </item>
     
     <item>
+      <title>Why do we need generative models?</title>
+      <link>/talk/generators/</link>
+      <pubDate>Thu, 09 Jul 2020 20:00:00 +0000</pubDate>
+      <guid>/talk/generators/</guid>
+      <description>&lt;p&gt;In this talk, we briefly survey the existing generative models used for different tasks and applications and highlight few open problems. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID19 Image Segmentation</title>
+      <link>/talk/covid-seg/</link>
+      <pubDate>Thu, 09 Jul 2020 19:00:00 +0000</pubDate>
+      <guid>/talk/covid-seg/</guid>
+      <description>&lt;p&gt;In this talk, we briefly present how we can use probabilistic U-Nets for disease segmentation on X-Ray and CT images of potential COVID-19 patients. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Sequential Data Streaming</title>
+      <link>/talk/continual/</link>
+      <pubDate>Thu, 09 Jul 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/continual/</guid>
+      <description>&lt;p&gt;In this talk, we briefly present how we can use continual learning for sequential online data without catastrophic forgetting. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors.</title>
       <link>/publication/scene-flow/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0530</pubDate>
@@ -73,10 +100,101 @@
     </item>
     
     <item>
+      <title>Cartographer - Real-Time Loop Closure in 2D LIDAR SLAM</title>
+      <link>/talk/cartographer/</link>
+      <pubDate>Sun, 28 Jun 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/cartographer/</guid>
+      <description>&lt;p&gt;In this talk, I review the paper  
+&lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In a prior 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Oo9SsIvyxZA&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I have also explained the basics of SLAM and gave intuitions required to understand the novel ideas proposed in this paper. The code for Cartographer paper is open sourced 
+&lt;a href=&#34;https://google-cartographer-ros.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and widely used and deployed in self driving community for performing accurate LIDAR based SLAM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SLAM Basics</title>
+      <link>/talk/slam-basics/</link>
+      <pubDate>Fri, 26 Jun 2020 15:00:00 +0000</pubDate>
+      <guid>/talk/slam-basics/</guid>
+      <description>&lt;p&gt;In this talk, I explain the basics of SLAM and give intuition of novel ideas proposed in the paper 
+&lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In next 
+&lt;a href=&#34;https://www.youtube.com/watch?v=fUMKAtTRnyM&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I review the paper in detail.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reviewing Multi Task Learning</title>
+      <link>/talk/mtl/</link>
+      <pubDate>Mon, 15 Jun 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/mtl/</guid>
+      <description>&lt;p&gt;Literature review of Multi Task Learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FAIR : Frugal ADAS for Indian Roads</title>
       <link>/publication/fair/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
       <guid>/publication/fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning</title>
+      <link>/talk/introdl/</link>
+      <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/introdl/</guid>
+      <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Hector SLAM</title>
+      <link>/talk/hector/</link>
+      <pubDate>Wed, 01 May 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/hector/</guid>
+      <description>&lt;p&gt;Paper review of Hector SLAM paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in (visual) SLAM</title>
+      <link>/talk/dlinslam/</link>
+      <pubDate>Tue, 05 Mar 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/dlinslam/</guid>
+      <description>&lt;p&gt;Literature survey of use of deep learning for visual SLAM applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Residual blocks — Building blocks of ResNet</title>
+      <link>/post/residual-blocks/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/residual-blocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separable convolutions — trading little accuracy for huge computational gains</title>
+      <link>/post/sep-conv/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/sep-conv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouped Convolutions — convolutions in parallel</title>
+      <link>/post/group-conv/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/group-conv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciding optimal kernel size for CNN</title>
+      <link>/post/filter-sz/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/post/filter-sz/</guid>
       <description></description>
     </item>
     

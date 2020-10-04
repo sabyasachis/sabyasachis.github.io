@@ -5,12 +5,98 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2020 20:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Why do we need generative models?</title>
+      <link>/talk/generators/</link>
+      <pubDate>Thu, 09 Jul 2020 20:00:00 +0000</pubDate>
+      <guid>/talk/generators/</guid>
+      <description>&lt;p&gt;In this talk, we briefly survey the existing generative models used for different tasks and applications and highlight few open problems. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID19 Image Segmentation</title>
+      <link>/talk/covid-seg/</link>
+      <pubDate>Thu, 09 Jul 2020 19:00:00 +0000</pubDate>
+      <guid>/talk/covid-seg/</guid>
+      <description>&lt;p&gt;In this talk, we briefly present how we can use probabilistic U-Nets for disease segmentation on X-Ray and CT images of potential COVID-19 patients. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Sequential Data Streaming</title>
+      <link>/talk/continual/</link>
+      <pubDate>Thu, 09 Jul 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/continual/</guid>
+      <description>&lt;p&gt;In this talk, we briefly present how we can use continual learning for sequential online data without catastrophic forgetting. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cartographer - Real-Time Loop Closure in 2D LIDAR SLAM</title>
+      <link>/talk/cartographer/</link>
+      <pubDate>Sun, 28 Jun 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/cartographer/</guid>
+      <description>&lt;p&gt;In this talk, I review the paper  
+&lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In a prior 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Oo9SsIvyxZA&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I have also explained the basics of SLAM and gave intuitions required to understand the novel ideas proposed in this paper. The code for Cartographer paper is open sourced 
+&lt;a href=&#34;https://google-cartographer-ros.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and widely used and deployed in self driving community for performing accurate LIDAR based SLAM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SLAM Basics</title>
+      <link>/talk/slam-basics/</link>
+      <pubDate>Fri, 26 Jun 2020 15:00:00 +0000</pubDate>
+      <guid>/talk/slam-basics/</guid>
+      <description>&lt;p&gt;In this talk, I explain the basics of SLAM and give intuition of novel ideas proposed in the paper 
+&lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In next 
+&lt;a href=&#34;https://www.youtube.com/watch?v=fUMKAtTRnyM&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I review the paper in detail.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reviewing Multi Task Learning</title>
+      <link>/talk/mtl/</link>
+      <pubDate>Mon, 15 Jun 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/mtl/</guid>
+      <description>&lt;p&gt;Literature review of Multi Task Learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning</title>
+      <link>/talk/introdl/</link>
+      <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/introdl/</guid>
+      <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding Hector SLAM</title>
+      <link>/talk/hector/</link>
+      <pubDate>Wed, 01 May 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/hector/</guid>
+      <description>&lt;p&gt;Paper review of Hector SLAM paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in (visual) SLAM</title>
+      <link>/talk/dlinslam/</link>
+      <pubDate>Tue, 05 Mar 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/dlinslam/</guid>
+      <description>&lt;p&gt;Literature survey of use of deep learning for visual SLAM applications.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

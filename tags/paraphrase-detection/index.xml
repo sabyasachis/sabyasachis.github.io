@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paraphrase Detection | Sabyasachi Sahoo</title>
+    <link>/tags/paraphrase-detection/</link>
+      <atom:link href="/tags/paraphrase-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paraphrase Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Paraphrase Detection</title>
+      <link>/tags/paraphrase-detection/</link>
+    </image>
+    
+    <item>
+      <title>Paraphrase detection on Quora questions</title>
+      <link>/project/quora-pair/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/project/quora-pair/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Identify question pairs that have the same intent&lt;/li&gt;
+&lt;li&gt;Tried LSTM but got 0.489 log loss error using hand tuned features and parameters trained on logistic regression with regularization.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

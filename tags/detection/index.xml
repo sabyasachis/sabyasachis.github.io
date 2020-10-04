@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Detection | Sabyasachi Sahoo</title>
+    <link>/tags/detection/</link>
+      <atom:link href="/tags/detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Detection</title>
+      <link>/tags/detection/</link>
+    </image>
+    
+    <item>
+      <title>COVID-SWIFT : Simple Whatsapp based x-ray Image interpretation at your Finger Tips for potential COVID19 patients</title>
+      <link>/publication/covid-swift/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/covid-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAIR : Frugal ADAS for Indian Roads</title>
+      <link>/publication/fair/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning</title>
+      <link>/talk/introdl/</link>
+      <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/introdl/</guid>
+      <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Sabyasachi Sahoo</title>
+    <link>/tags/deep-learning/</link>
+      <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>CID : Captioning for Interpretability and Disentanglement</title>
+      <link>/publication/cid/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/cid/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
+      <link>/publication/hrhq/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/hrhq/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
+      <link>/publication/rude/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/rude/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Domain Adaption for cross domain Lung Segmentation on Chest Xray Images</title>
+      <link>/publication/uda-seg/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/uda-seg/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-SWIFT : Simple Whatsapp based x-ray Image interpretation at your Finger Tips for potential COVID19 patients</title>
+      <link>/publication/covid-swift/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/covid-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
+      <link>/publication/dslr/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/dslr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why do we need generative models?</title>
+      <link>/talk/generators/</link>
+      <pubDate>Thu, 09 Jul 2020 20:00:00 +0000</pubDate>
+      <guid>/talk/generators/</guid>
+      <description>&lt;p&gt;In this talk, we briefly survey the existing generative models used for different tasks and applications and highlight few open problems. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID19 Image Segmentation</title>
+      <link>/talk/covid-seg/</link>
+      <pubDate>Thu, 09 Jul 2020 19:00:00 +0000</pubDate>
+      <guid>/talk/covid-seg/</guid>
+      <description>&lt;p&gt;In this talk, we briefly present how we can use probabilistic U-Nets for disease segmentation on X-Ray and CT images of potential COVID-19 patients. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continual Learning for Sequential Data Streaming</title>
+      <link>/talk/continual/</link>
+      <pubDate>Thu, 09 Jul 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/continual/</guid>
+      <description>&lt;p&gt;In this talk, we briefly present how we can use continual learning for sequential online data without catastrophic forgetting. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors.</title>
+      <link>/publication/scene-flow/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/scene-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reviewing Multi Task Learning</title>
+      <link>/talk/mtl/</link>
+      <pubDate>Mon, 15 Jun 2020 18:00:00 +0000</pubDate>
+      <guid>/talk/mtl/</guid>
+      <description>&lt;p&gt;Literature review of Multi Task Learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAIR : Frugal ADAS for Indian Roads</title>
+      <link>/publication/fair/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning</title>
+      <link>/talk/introdl/</link>
+      <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/introdl/</guid>
+      <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in (visual) SLAM</title>
+      <link>/talk/dlinslam/</link>
+      <pubDate>Tue, 05 Mar 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/dlinslam/</guid>
+      <description>&lt;p&gt;Literature survey of use of deep learning for visual SLAM applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Residual blocks — Building blocks of ResNet</title>
+      <link>/post/residual-blocks/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/residual-blocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separable convolutions — trading little accuracy for huge computational gains</title>
+      <link>/post/sep-conv/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/sep-conv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grouped Convolutions — convolutions in parallel</title>
+      <link>/post/group-conv/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/group-conv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciding optimal kernel size for CNN</title>
+      <link>/post/filter-sz/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/post/filter-sz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth Map for Image Classification</title>
+      <link>/project/depth-map/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/depth-map/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Improving image classification using depth maps&lt;/li&gt;
+&lt;li&gt;An end-to-end Google colab tutorial project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Traffic for self driving car</title>
+      <link>/project/deep-traffic/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/project/deep-traffic/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Experimented with different models for deep Q-learning network&lt;/li&gt;
+&lt;li&gt;Received an award for finishing with top finalists&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Normalization for English</title>
+      <link>/project/text-norm/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/text-norm/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Convert English text from written expressions into spoken forms&lt;/li&gt;
+&lt;li&gt;Obtained 99.637% prediction accuracy using xgboost and std. text cleaning&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Car Image Masking</title>
+      <link>/project/car-mask/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/project/car-mask/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Automatically identify the boundaries of the car in an image&lt;/li&gt;
+&lt;li&gt;Implemented U net in keras and whose mean dice coefficient was 0.9963&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paraphrase detection on Quora questions</title>
+      <link>/project/quora-pair/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/project/quora-pair/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Identify question pairs that have the same intent&lt;/li&gt;
+&lt;li&gt;Tried LSTM but got 0.489 log loss error using hand tuned features and parameters trained on logistic regression with regularization.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Establishing Semantic relationships among object classes using Deep Networks to Image Classification</title>
+      <link>/publication/semantic-context/</link>
+      <pubDate>Tue, 05 May 2015 00:00:00 +0530</pubDate>
+      <guid>/publication/semantic-context/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

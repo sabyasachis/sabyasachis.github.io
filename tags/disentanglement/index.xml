@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disentanglement | Sabyasachi Sahoo</title>
+    <link>/tags/disentanglement/</link>
+      <atom:link href="/tags/disentanglement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Disentanglement</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Disentanglement</title>
+      <link>/tags/disentanglement/</link>
+    </image>
+    
+    <item>
+      <title>CID : Captioning for Interpretability and Disentanglement</title>
+      <link>/publication/cid/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/cid/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
+      <link>/publication/hrhq/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/hrhq/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
+      <link>/publication/rude/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/rude/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why do we need generative models?</title>
+      <link>/talk/generators/</link>
+      <pubDate>Thu, 09 Jul 2020 20:00:00 +0000</pubDate>
+      <guid>/talk/generators/</guid>
+      <description>&lt;p&gt;In this talk, we briefly survey the existing generative models used for different tasks and applications and highlight few open problems. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

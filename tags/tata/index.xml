@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tata | Sabyasachi Sahoo</title>
+    <link>/tags/tata/</link>
+      <atom:link href="/tags/tata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tata</title>
+      <link>/tags/tata/</link>
+    </image>
+    
+    <item>
+      <title>FAIR : Frugal ADAS for Indian Roads</title>
+      <link>/publication/fair/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Deep Learning</title>
+      <link>/talk/introdl/</link>
+      <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/introdl/</guid>
+      <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

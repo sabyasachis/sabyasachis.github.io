@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/tags/ai-for-healthcare/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/akshaj-verma/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
@@ -38,7 +43,42 @@
   </url>
   
   <url>
+    <loc>/tags/computer-vision/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/disentanglement/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/domain-adaptation/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/explainability/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/generative-modelling/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/hrhq/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/niramai/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
@@ -68,7 +108,17 @@
   </url>
   
   <url>
+    <loc>/tags/segmentation/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/suchit-jain/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
@@ -93,7 +143,17 @@
   </url>
   
   <url>
+    <loc>/tags/classification/</loc>
+    <lastmod>2020-10-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/covid-swift/</loc>
+    <lastmod>2020-10-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/detection/</loc>
     <lastmod>2020-10-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -113,12 +173,27 @@
   </url>
   
   <url>
+    <loc>/tags/ati/</loc>
+    <lastmod>2020-09-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/dslr/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/prashant-kumar/</loc>
+    <lastmod>2020-09-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/robotics/</loc>
+    <lastmod>2020-09-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/slam/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -130,6 +205,31 @@
   <url>
     <loc>/authors/vinay-v/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-07-09T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/generators/</loc>
+    <lastmod>2020-07-09T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/covid-seg/</loc>
+    <lastmod>2020-07-09T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/continual-learning/</loc>
+    <lastmod>2020-07-09T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/continual/</loc>
+    <lastmod>2020-07-09T18:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,6 +253,31 @@
   </url>
   
   <url>
+    <loc>/tags/scene-flow/</loc>
+    <lastmod>2020-07-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cartographer/</loc>
+    <lastmod>2020-06-28T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/slam-basics/</loc>
+    <lastmod>2020-06-26T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/mtl/</loc>
+    <lastmod>2020-06-15T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/adas/</loc>
+    <lastmod>2020-05-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/fair/</loc>
     <lastmod>2020-05-02T00:00:00+05:30</lastmod>
   </url>
@@ -163,12 +288,152 @@
   </url>
   
   <url>
+    <loc>/tags/tata/</loc>
+    <lastmod>2020-05-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/introdl/</loc>
+    <lastmod>2020-04-28T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2020-04-28T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/natural-language-processing/</loc>
+    <lastmod>2020-04-28T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/hector/</loc>
+    <lastmod>2019-05-01T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/dlinslam/</loc>
+    <lastmod>2019-03-05T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/residual-blocks/</loc>
+    <lastmod>2018-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/sep-conv/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/group-conv/</loc>
+    <lastmod>2018-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/filter-sz/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/depth-estimation/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/depth-map/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/recommender-system/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/basket-pred/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/time-series/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/deep-traffic/</loc>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/reinforcement-learning/</loc>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/recomm-sys/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/text-normalization/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/text-norm/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/car-mask/</loc>
+    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/paraphrase-detection/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/quora-pair/</loc>
+    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/5/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>/publication/mtech/</loc>
+    <lastmod>2016-07-30T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/molecular-dynamics/</loc>
+    <lastmod>2016-07-30T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mpi/</loc>
+    <lastmod>2016-07-30T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/parallel-progromming/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
   </url>
   
@@ -193,19 +458,16 @@
   </url>
   
   <url>
+    <loc>/authors/srinivas-kruthiventi-s-s/</loc>
+    <lastmod>2015-05-05T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/3d/lidar/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

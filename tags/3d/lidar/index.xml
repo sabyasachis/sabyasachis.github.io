@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D/LiDAR | Sabyasachi Sahoo</title>
+    <link>/tags/3d/lidar/</link>
+      <atom:link href="/tags/3d/lidar/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D/LiDAR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3D/LiDAR</title>
+      <link>/tags/3d/lidar/</link>
+    </image>
+    
+    <item>
+      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
+      <link>/publication/rude/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/rude/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
+      <link>/publication/dslr/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/dslr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors.</title>
+      <link>/publication/scene-flow/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0530</pubDate>
+      <guid>/publication/scene-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartographer - Real-Time Loop Closure in 2D LIDAR SLAM</title>
+      <link>/talk/cartographer/</link>
+      <pubDate>Sun, 28 Jun 2020 17:00:00 +0000</pubDate>
+      <guid>/talk/cartographer/</guid>
+      <description>&lt;p&gt;In this talk, I review the paper  
+&lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In a prior 
+&lt;a href=&#34;https://www.youtube.com/watch?v=Oo9SsIvyxZA&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I have also explained the basics of SLAM and gave intuitions required to understand the novel ideas proposed in this paper. The code for Cartographer paper is open sourced 
+&lt;a href=&#34;https://google-cartographer-ros.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and widely used and deployed in self driving community for performing accurate LIDAR based SLAM.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
