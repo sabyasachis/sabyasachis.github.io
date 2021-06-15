@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sabyasachi Sahoo</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/</link>
+      <atom:link href="https://sabyasachis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sabyasachi Sahoo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sabyasachi Sahoo</title>
-      <link>/</link>
+      <link>https://sabyasachis.github.io/</link>
     </image>
     
     <item>
       <title>CID : Captioning for Interpretability and Disentanglement</title>
-      <link>/publication/cid/</link>
+      <link>https://sabyasachis.github.io/publication/cid/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/cid/</guid>
+      <guid>https://sabyasachis.github.io/publication/cid/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
-      <link>/publication/hrhq/</link>
+      <link>https://sabyasachis.github.io/publication/hrhq/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/hrhq/</guid>
+      <guid>https://sabyasachis.github.io/publication/hrhq/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
-      <link>/publication/rude/</link>
+      <link>https://sabyasachis.github.io/publication/rude/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/rude/</guid>
+      <guid>https://sabyasachis.github.io/publication/rude/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unsupervised Domain Adaption for cross domain Lung Segmentation on Chest Xray Images</title>
-      <link>/publication/uda-seg/</link>
+      <link>https://sabyasachis.github.io/publication/uda-seg/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/uda-seg/</guid>
+      <guid>https://sabyasachis.github.io/publication/uda-seg/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>COVID-SWIFT : Simple Whatsapp based x-ray Image interpretation at your Finger Tips for potential COVID19 patients</title>
-      <link>/publication/covid-swift/</link>
+      <link>https://sabyasachis.github.io/publication/covid-swift/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/covid-swift/</guid>
+      <guid>https://sabyasachis.github.io/publication/covid-swift/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
-      <link>/publication/dslr/</link>
+      <link>https://sabyasachis.github.io/publication/dslr/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/dslr/</guid>
+      <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why do we need generative models?</title>
-      <link>/talk/generators/</link>
+      <link>https://sabyasachis.github.io/talk/generators/</link>
       <pubDate>Thu, 09 Jul 2020 20:00:00 +0000</pubDate>
-      <guid>/talk/generators/</guid>
+      <guid>https://sabyasachis.github.io/talk/generators/</guid>
       <description>&lt;p&gt;In this talk, we briefly survey the existing generative models used for different tasks and applications and highlight few open problems. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>COVID19 Image Segmentation</title>
-      <link>/talk/covid-seg/</link>
+      <link>https://sabyasachis.github.io/talk/covid-seg/</link>
       <pubDate>Thu, 09 Jul 2020 19:00:00 +0000</pubDate>
-      <guid>/talk/covid-seg/</guid>
+      <guid>https://sabyasachis.github.io/talk/covid-seg/</guid>
       <description>&lt;p&gt;In this talk, we briefly present how we can use probabilistic U-Nets for disease segmentation on X-Ray and CT images of potential COVID-19 patients. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Continual Learning for Sequential Data Streaming</title>
-      <link>/talk/continual/</link>
+      <link>https://sabyasachis.github.io/talk/continual/</link>
       <pubDate>Thu, 09 Jul 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/continual/</guid>
+      <guid>https://sabyasachis.github.io/talk/continual/</guid>
       <description>&lt;p&gt;In this talk, we briefly present how we can use continual learning for sequential online data without catastrophic forgetting. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors.</title>
-      <link>/publication/scene-flow/</link>
+      <link>https://sabyasachis.github.io/publication/scene-flow/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/scene-flow/</guid>
+      <guid>https://sabyasachis.github.io/publication/scene-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cartographer - Real-Time Loop Closure in 2D LIDAR SLAM</title>
-      <link>/talk/cartographer/</link>
+      <link>https://sabyasachis.github.io/talk/cartographer/</link>
       <pubDate>Sun, 28 Jun 2020 17:00:00 +0000</pubDate>
-      <guid>/talk/cartographer/</guid>
+      <guid>https://sabyasachis.github.io/talk/cartographer/</guid>
       <description>&lt;p&gt;In this talk, I review the paper  
 &lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In a prior 
 &lt;a href=&#34;https://www.youtube.com/watch?v=Oo9SsIvyxZA&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I have also explained the basics of SLAM and gave intuitions required to understand the novel ideas proposed in this paper. The code for Cartographer paper is open sourced 
@@ -113,9 +113,9 @@
     
     <item>
       <title>SLAM Basics</title>
-      <link>/talk/slam-basics/</link>
+      <link>https://sabyasachis.github.io/talk/slam-basics/</link>
       <pubDate>Fri, 26 Jun 2020 15:00:00 +0000</pubDate>
-      <guid>/talk/slam-basics/</guid>
+      <guid>https://sabyasachis.github.io/talk/slam-basics/</guid>
       <description>&lt;p&gt;In this talk, I explain the basics of SLAM and give intuition of novel ideas proposed in the paper 
 &lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In next 
 &lt;a href=&#34;https://www.youtube.com/watch?v=fUMKAtTRnyM&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I review the paper in detail.&lt;/p&gt;
@@ -124,85 +124,85 @@
     
     <item>
       <title>Reviewing Multi Task Learning</title>
-      <link>/talk/mtl/</link>
+      <link>https://sabyasachis.github.io/talk/mtl/</link>
       <pubDate>Mon, 15 Jun 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/mtl/</guid>
+      <guid>https://sabyasachis.github.io/talk/mtl/</guid>
       <description>&lt;p&gt;Literature review of Multi Task Learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FAIR : Frugal ADAS for Indian Roads</title>
-      <link>/publication/fair/</link>
+      <link>https://sabyasachis.github.io/publication/fair/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/fair/</guid>
+      <guid>https://sabyasachis.github.io/publication/fair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to Deep Learning</title>
-      <link>/talk/introdl/</link>
+      <link>https://sabyasachis.github.io/talk/introdl/</link>
       <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
-      <guid>/talk/introdl/</guid>
+      <guid>https://sabyasachis.github.io/talk/introdl/</guid>
       <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understanding Hector SLAM</title>
-      <link>/talk/hector/</link>
+      <link>https://sabyasachis.github.io/talk/hector/</link>
       <pubDate>Wed, 01 May 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/hector/</guid>
+      <guid>https://sabyasachis.github.io/talk/hector/</guid>
       <description>&lt;p&gt;Paper review of Hector SLAM paper.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning in (visual) SLAM</title>
-      <link>/talk/dlinslam/</link>
+      <link>https://sabyasachis.github.io/talk/dlinslam/</link>
       <pubDate>Tue, 05 Mar 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/dlinslam/</guid>
+      <guid>https://sabyasachis.github.io/talk/dlinslam/</guid>
       <description>&lt;p&gt;Literature survey of use of deep learning for visual SLAM applications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Residual blocks — Building blocks of ResNet</title>
-      <link>/post/residual-blocks/</link>
+      <link>https://sabyasachis.github.io/post/residual-blocks/</link>
       <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/post/residual-blocks/</guid>
+      <guid>https://sabyasachis.github.io/post/residual-blocks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Separable convolutions — trading little accuracy for huge computational gains</title>
-      <link>/post/sep-conv/</link>
+      <link>https://sabyasachis.github.io/post/sep-conv/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/post/sep-conv/</guid>
+      <guid>https://sabyasachis.github.io/post/sep-conv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grouped Convolutions — convolutions in parallel</title>
-      <link>/post/group-conv/</link>
+      <link>https://sabyasachis.github.io/post/group-conv/</link>
       <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/post/group-conv/</guid>
+      <guid>https://sabyasachis.github.io/post/group-conv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deciding optimal kernel size for CNN</title>
-      <link>/post/filter-sz/</link>
+      <link>https://sabyasachis.github.io/post/filter-sz/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/post/filter-sz/</guid>
+      <guid>https://sabyasachis.github.io/post/filter-sz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Depth Map for Image Classification</title>
-      <link>/project/depth-map/</link>
+      <link>https://sabyasachis.github.io/project/depth-map/</link>
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/project/depth-map/</guid>
+      <guid>https://sabyasachis.github.io/project/depth-map/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Improving image classification using depth maps&lt;/li&gt;
 &lt;li&gt;An end-to-end Google colab tutorial project&lt;/li&gt;
@@ -212,9 +212,9 @@
     
     <item>
       <title>Smart Basket Prediction</title>
-      <link>/project/basket-pred/</link>
+      <link>https://sabyasachis.github.io/project/basket-pred/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/basket-pred/</guid>
+      <guid>https://sabyasachis.github.io/project/basket-pred/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Using past orders data, predict which previously purchased products will be in a user’s next order.&lt;/li&gt;
 &lt;li&gt;Trained on relevant engineered features based on users and items&lt;/li&gt;
@@ -225,9 +225,9 @@
     
     <item>
       <title>Deep Traffic for self driving car</title>
-      <link>/project/deep-traffic/</link>
+      <link>https://sabyasachis.github.io/project/deep-traffic/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/project/deep-traffic/</guid>
+      <guid>https://sabyasachis.github.io/project/deep-traffic/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Experimented with different models for deep Q-learning network&lt;/li&gt;
 &lt;li&gt;Received an award for finishing with top finalists&lt;/li&gt;
@@ -237,9 +237,9 @@
     
     <item>
       <title>Global NIPS Paper Implementation Challenge</title>
-      <link>/project/recomm-sys/</link>
+      <link>https://sabyasachis.github.io/project/recomm-sys/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/recomm-sys/</guid>
+      <guid>https://sabyasachis.github.io/project/recomm-sys/</guid>
       <description>&lt;p&gt;My primary motivation to implement this paper “Thy Friend Is My Friend: Iterative Collaborative Filtering for Sparse Matrix Estimation” was to understand how recommendation systems work. The paper talks about a new way of user-item prediction in recommender systems for extremely sparse datasets. After reading the dataset, we make sure the dataset has been made symmetric and the values are normalised. In step 1, we divide the user-item rating pairs randomly into three parts and use each part in next 3 steps. In step 2, we take first part and calculate neighbourhood vector for every vertex i.e. get the product along the shortest path from given vertex to every possible vertex. In step 3, we use part 2 obtained and use it to calculate distance between any two vertices (like user and movie) as an inner product between r-hop and r+1 hop neighbourhood vector. In step 4, we average over all vertices within a distance threshold to predict user-item rating.&lt;/p&gt;
 &lt;p&gt;To test validity of the code, we experimentally showed that for recommendation dataset,&lt;/p&gt;
 &lt;p&gt;if
@@ -252,9 +252,9 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
     
     <item>
       <title>Text Normalization for English</title>
-      <link>/project/text-norm/</link>
+      <link>https://sabyasachis.github.io/project/text-norm/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/project/text-norm/</guid>
+      <guid>https://sabyasachis.github.io/project/text-norm/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Convert English text from written expressions into spoken forms&lt;/li&gt;
 &lt;li&gt;Obtained 99.637% prediction accuracy using xgboost and std. text cleaning&lt;/li&gt;
@@ -264,9 +264,9 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
     
     <item>
       <title>Car Image Masking</title>
-      <link>/project/car-mask/</link>
+      <link>https://sabyasachis.github.io/project/car-mask/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/project/car-mask/</guid>
+      <guid>https://sabyasachis.github.io/project/car-mask/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Automatically identify the boundaries of the car in an image&lt;/li&gt;
 &lt;li&gt;Implemented U net in keras and whose mean dice coefficient was 0.9963&lt;/li&gt;
@@ -276,9 +276,9 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
     
     <item>
       <title>Paraphrase detection on Quora questions</title>
-      <link>/project/quora-pair/</link>
+      <link>https://sabyasachis.github.io/project/quora-pair/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/project/quora-pair/</guid>
+      <guid>https://sabyasachis.github.io/project/quora-pair/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Identify question pairs that have the same intent&lt;/li&gt;
 &lt;li&gt;Tried LSTM but got 0.489 log loss error using hand tuned features and parameters trained on logistic regression with regularization.&lt;/li&gt;
@@ -288,17 +288,17 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
     
     <item>
       <title>Hierarchical Task Mapping on Dragonfly topology for scaling Molecular Dynamics</title>
-      <link>/publication/mtech/</link>
+      <link>https://sabyasachis.github.io/publication/mtech/</link>
       <pubDate>Sat, 30 Jul 2016 00:00:00 +0530</pubDate>
-      <guid>/publication/mtech/</guid>
+      <guid>https://sabyasachis.github.io/publication/mtech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Establishing Semantic relationships among object classes using Deep Networks to Image Classification</title>
-      <link>/publication/semantic-context/</link>
+      <link>https://sabyasachis.github.io/publication/semantic-context/</link>
       <pubDate>Tue, 05 May 2015 00:00:00 +0530</pubDate>
-      <guid>/publication/semantic-context/</guid>
+      <guid>https://sabyasachis.github.io/publication/semantic-context/</guid>
       <description></description>
     </item>
     

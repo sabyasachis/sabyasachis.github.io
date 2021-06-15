@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MPI | Sabyasachi Sahoo</title>
-    <link>/tags/mpi/</link>
-      <atom:link href="/tags/mpi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/mpi/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/mpi/index.xml" rel="self" type="application/rss+xml" />
     <description>MPI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jul 2016 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>MPI</title>
-      <link>/tags/mpi/</link>
+      <link>https://sabyasachis.github.io/tags/mpi/</link>
     </image>
     
     <item>
       <title>Hierarchical Task Mapping on Dragonfly topology for scaling Molecular Dynamics</title>
-      <link>/publication/mtech/</link>
+      <link>https://sabyasachis.github.io/publication/mtech/</link>
       <pubDate>Sat, 30 Jul 2016 00:00:00 +0530</pubDate>
-      <guid>/publication/mtech/</guid>
+      <guid>https://sabyasachis.github.io/publication/mtech/</guid>
       <description></description>
     </item>
     

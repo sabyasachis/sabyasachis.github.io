@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vinay V | Sabyasachi Sahoo</title>
-    <link>/authors/vinay-v/</link>
-      <atom:link href="/authors/vinay-v/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/authors/vinay-v/</link>
+      <atom:link href="https://sabyasachis.github.io/authors/vinay-v/index.xml" rel="self" type="application/rss+xml" />
     <description>Vinay V</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Vinay V</title>
-      <link>/authors/vinay-v/</link>
+      <link>https://sabyasachis.github.io/authors/vinay-v/</link>
     </image>
     
     <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
-      <link>/publication/dslr/</link>
+      <link>https://sabyasachis.github.io/publication/dslr/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/dslr/</guid>
+      <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors.</title>
-      <link>/publication/scene-flow/</link>
+      <link>https://sabyasachis.github.io/publication/scene-flow/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/scene-flow/</guid>
+      <guid>https://sabyasachis.github.io/publication/scene-flow/</guid>
       <description></description>
     </item>
     

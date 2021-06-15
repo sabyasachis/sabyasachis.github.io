@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Explainability | Sabyasachi Sahoo</title>
-    <link>/tags/explainability/</link>
-      <atom:link href="/tags/explainability/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/explainability/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/explainability/index.xml" rel="self" type="application/rss+xml" />
     <description>Explainability</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Explainability</title>
-      <link>/tags/explainability/</link>
+      <link>https://sabyasachis.github.io/tags/explainability/</link>
     </image>
     
     <item>
       <title>CID : Captioning for Interpretability and Disentanglement</title>
-      <link>/publication/cid/</link>
+      <link>https://sabyasachis.github.io/publication/cid/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/cid/</guid>
+      <guid>https://sabyasachis.github.io/publication/cid/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Establishing Semantic relationships among object classes using Deep Networks to Image Classification</title>
-      <link>/publication/semantic-context/</link>
+      <link>https://sabyasachis.github.io/publication/semantic-context/</link>
       <pubDate>Tue, 05 May 2015 00:00:00 +0530</pubDate>
-      <guid>/publication/semantic-context/</guid>
+      <guid>https://sabyasachis.github.io/publication/semantic-context/</guid>
       <description></description>
     </item>
     

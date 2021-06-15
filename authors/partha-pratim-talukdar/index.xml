@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partha Pratim Talukdar | Sabyasachi Sahoo</title>
-    <link>/authors/partha-pratim-talukdar/</link>
-      <atom:link href="/authors/partha-pratim-talukdar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/authors/partha-pratim-talukdar/</link>
+      <atom:link href="https://sabyasachis.github.io/authors/partha-pratim-talukdar/index.xml" rel="self" type="application/rss+xml" />
     <description>Partha Pratim Talukdar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2015 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Partha Pratim Talukdar</title>
-      <link>/authors/partha-pratim-talukdar/</link>
+      <link>https://sabyasachis.github.io/authors/partha-pratim-talukdar/</link>
     </image>
     
     <item>
       <title>Establishing Semantic relationships among object classes using Deep Networks to Image Classification</title>
-      <link>/publication/semantic-context/</link>
+      <link>https://sabyasachis.github.io/publication/semantic-context/</link>
       <pubDate>Tue, 05 May 2015 00:00:00 +0530</pubDate>
-      <guid>/publication/semantic-context/</guid>
+      <guid>https://sabyasachis.github.io/publication/semantic-context/</guid>
       <description></description>
     </item>
     

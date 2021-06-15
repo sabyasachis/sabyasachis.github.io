@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Continual Learning | Sabyasachi Sahoo</title>
-    <link>/tags/continual-learning/</link>
-      <atom:link href="/tags/continual-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/continual-learning/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/continual-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Continual Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2020 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Continual Learning</title>
-      <link>/tags/continual-learning/</link>
+      <link>https://sabyasachis.github.io/tags/continual-learning/</link>
     </image>
     
     <item>
       <title>Continual Learning for Sequential Data Streaming</title>
-      <link>/talk/continual/</link>
+      <link>https://sabyasachis.github.io/talk/continual/</link>
       <pubDate>Thu, 09 Jul 2020 18:00:00 +0000</pubDate>
-      <guid>/talk/continual/</guid>
+      <guid>https://sabyasachis.github.io/talk/continual/</guid>
       <description>&lt;p&gt;In this talk, we briefly present how we can use continual learning for sequential online data without catastrophic forgetting. This was presented as an unconference session in EEML summer school 2020.&lt;/p&gt;
 </description>
     </item>

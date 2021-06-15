@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommender System | Sabyasachi Sahoo</title>
-    <link>/tags/recommender-system/</link>
-      <atom:link href="/tags/recommender-system/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/recommender-system/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/recommender-system/index.xml" rel="self" type="application/rss+xml" />
     <description>Recommender System</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recommender System</title>
-      <link>/tags/recommender-system/</link>
+      <link>https://sabyasachis.github.io/tags/recommender-system/</link>
     </image>
     
     <item>
       <title>Smart Basket Prediction</title>
-      <link>/project/basket-pred/</link>
+      <link>https://sabyasachis.github.io/project/basket-pred/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/basket-pred/</guid>
+      <guid>https://sabyasachis.github.io/project/basket-pred/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Using past orders data, predict which previously purchased products will be in a user’s next order.&lt;/li&gt;
 &lt;li&gt;Trained on relevant engineered features based on users and items&lt;/li&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Global NIPS Paper Implementation Challenge</title>
-      <link>/project/recomm-sys/</link>
+      <link>https://sabyasachis.github.io/project/recomm-sys/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/recomm-sys/</guid>
+      <guid>https://sabyasachis.github.io/project/recomm-sys/</guid>
       <description>&lt;p&gt;My primary motivation to implement this paper “Thy Friend Is My Friend: Iterative Collaborative Filtering for Sparse Matrix Estimation” was to understand how recommendation systems work. The paper talks about a new way of user-item prediction in recommender systems for extremely sparse datasets. After reading the dataset, we make sure the dataset has been made symmetric and the values are normalised. In step 1, we divide the user-item rating pairs randomly into three parts and use each part in next 3 steps. In step 2, we take first part and calculate neighbourhood vector for every vertex i.e. get the product along the shortest path from given vertex to every possible vertex. In step 3, we use part 2 obtained and use it to calculate distance between any two vertices (like user and movie) as an inner product between r-hop and r+1 hop neighbourhood vector. In step 4, we average over all vertices within a distance threshold to predict user-item rating.&lt;/p&gt;
 &lt;p&gt;To test validity of the code, we experimentally showed that for recommendation dataset,&lt;/p&gt;
 &lt;p&gt;if

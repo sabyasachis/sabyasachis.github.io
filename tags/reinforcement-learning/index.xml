@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reinforcement Learning | Sabyasachi Sahoo</title>
-    <link>/tags/reinforcement-learning/</link>
-      <atom:link href="/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/reinforcement-learning/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Reinforcement Learning</title>
-      <link>/tags/reinforcement-learning/</link>
+      <link>https://sabyasachis.github.io/tags/reinforcement-learning/</link>
     </image>
     
     <item>
       <title>Deep Traffic for self driving car</title>
-      <link>/project/deep-traffic/</link>
+      <link>https://sabyasachis.github.io/project/deep-traffic/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/project/deep-traffic/</guid>
+      <guid>https://sabyasachis.github.io/project/deep-traffic/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Experimented with different models for deep Q-learning network&lt;/li&gt;
 &lt;li&gt;Received an award for finishing with top finalists&lt;/li&gt;

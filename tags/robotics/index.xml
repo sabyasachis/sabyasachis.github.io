@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics | Sabyasachi Sahoo</title>
-    <link>/tags/robotics/</link>
-      <atom:link href="/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/robotics/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Robotics</title>
-      <link>/tags/robotics/</link>
+      <link>https://sabyasachis.github.io/tags/robotics/</link>
     </image>
     
     <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
-      <link>/publication/dslr/</link>
+      <link>https://sabyasachis.github.io/publication/dslr/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/dslr/</guid>
+      <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors.</title>
-      <link>/publication/scene-flow/</link>
+      <link>https://sabyasachis.github.io/publication/scene-flow/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/scene-flow/</guid>
+      <guid>https://sabyasachis.github.io/publication/scene-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cartographer - Real-Time Loop Closure in 2D LIDAR SLAM</title>
-      <link>/talk/cartographer/</link>
+      <link>https://sabyasachis.github.io/talk/cartographer/</link>
       <pubDate>Sun, 28 Jun 2020 17:00:00 +0000</pubDate>
-      <guid>/talk/cartographer/</guid>
+      <guid>https://sabyasachis.github.io/talk/cartographer/</guid>
       <description>&lt;p&gt;In this talk, I review the paper  
 &lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In a prior 
 &lt;a href=&#34;https://www.youtube.com/watch?v=Oo9SsIvyxZA&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I have also explained the basics of SLAM and gave intuitions required to understand the novel ideas proposed in this paper. The code for Cartographer paper is open sourced 
@@ -42,9 +42,9 @@
     
     <item>
       <title>SLAM Basics</title>
-      <link>/talk/slam-basics/</link>
+      <link>https://sabyasachis.github.io/talk/slam-basics/</link>
       <pubDate>Fri, 26 Jun 2020 15:00:00 +0000</pubDate>
-      <guid>/talk/slam-basics/</guid>
+      <guid>https://sabyasachis.github.io/talk/slam-basics/</guid>
       <description>&lt;p&gt;In this talk, I explain the basics of SLAM and give intuition of novel ideas proposed in the paper 
 &lt;a href=&#34;https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Real-Time Loop Closure in 2D LIDAR SLAM&lt;/a&gt;. In next 
 &lt;a href=&#34;https://www.youtube.com/watch?v=fUMKAtTRnyM&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I review the paper in detail.&lt;/p&gt;
@@ -53,18 +53,18 @@
     
     <item>
       <title>Understanding Hector SLAM</title>
-      <link>/talk/hector/</link>
+      <link>https://sabyasachis.github.io/talk/hector/</link>
       <pubDate>Wed, 01 May 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/hector/</guid>
+      <guid>https://sabyasachis.github.io/talk/hector/</guid>
       <description>&lt;p&gt;Paper review of Hector SLAM paper.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning in (visual) SLAM</title>
-      <link>/talk/dlinslam/</link>
+      <link>https://sabyasachis.github.io/talk/dlinslam/</link>
       <pubDate>Tue, 05 Mar 2019 10:00:00 +0000</pubDate>
-      <guid>/talk/dlinslam/</guid>
+      <guid>https://sabyasachis.github.io/talk/dlinslam/</guid>
       <description>&lt;p&gt;Literature survey of use of deep learning for visual SLAM applications.&lt;/p&gt;
 </description>
     </item>

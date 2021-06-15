@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Sabyasachi Sahoo</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/project/</link>
+      <atom:link href="https://sabyasachis.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://sabyasachis.github.io/project/</link>
     </image>
     
     <item>
       <title>Depth Map for Image Classification</title>
-      <link>/project/depth-map/</link>
+      <link>https://sabyasachis.github.io/project/depth-map/</link>
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/project/depth-map/</guid>
+      <guid>https://sabyasachis.github.io/project/depth-map/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Improving image classification using depth maps&lt;/li&gt;
 &lt;li&gt;An end-to-end Google colab tutorial project&lt;/li&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Smart Basket Prediction</title>
-      <link>/project/basket-pred/</link>
+      <link>https://sabyasachis.github.io/project/basket-pred/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/basket-pred/</guid>
+      <guid>https://sabyasachis.github.io/project/basket-pred/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Using past orders data, predict which previously purchased products will be in a user’s next order.&lt;/li&gt;
 &lt;li&gt;Trained on relevant engineered features based on users and items&lt;/li&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>Deep Traffic for self driving car</title>
-      <link>/project/deep-traffic/</link>
+      <link>https://sabyasachis.github.io/project/deep-traffic/</link>
       <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/project/deep-traffic/</guid>
+      <guid>https://sabyasachis.github.io/project/deep-traffic/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Experimented with different models for deep Q-learning network&lt;/li&gt;
 &lt;li&gt;Received an award for finishing with top finalists&lt;/li&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Global NIPS Paper Implementation Challenge</title>
-      <link>/project/recomm-sys/</link>
+      <link>https://sabyasachis.github.io/project/recomm-sys/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/recomm-sys/</guid>
+      <guid>https://sabyasachis.github.io/project/recomm-sys/</guid>
       <description>&lt;p&gt;My primary motivation to implement this paper “Thy Friend Is My Friend: Iterative Collaborative Filtering for Sparse Matrix Estimation” was to understand how recommendation systems work. The paper talks about a new way of user-item prediction in recommender systems for extremely sparse datasets. After reading the dataset, we make sure the dataset has been made symmetric and the values are normalised. In step 1, we divide the user-item rating pairs randomly into three parts and use each part in next 3 steps. In step 2, we take first part and calculate neighbourhood vector for every vertex i.e. get the product along the shortest path from given vertex to every possible vertex. In step 3, we use part 2 obtained and use it to calculate distance between any two vertices (like user and movie) as an inner product between r-hop and r+1 hop neighbourhood vector. In step 4, we average over all vertices within a distance threshold to predict user-item rating.&lt;/p&gt;
 &lt;p&gt;To test validity of the code, we experimentally showed that for recommendation dataset,&lt;/p&gt;
 &lt;p&gt;if
@@ -66,9 +66,9 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
     
     <item>
       <title>Text Normalization for English</title>
-      <link>/project/text-norm/</link>
+      <link>https://sabyasachis.github.io/project/text-norm/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/project/text-norm/</guid>
+      <guid>https://sabyasachis.github.io/project/text-norm/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Convert English text from written expressions into spoken forms&lt;/li&gt;
 &lt;li&gt;Obtained 99.637% prediction accuracy using xgboost and std. text cleaning&lt;/li&gt;
@@ -78,9 +78,9 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
     
     <item>
       <title>Car Image Masking</title>
-      <link>/project/car-mask/</link>
+      <link>https://sabyasachis.github.io/project/car-mask/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/project/car-mask/</guid>
+      <guid>https://sabyasachis.github.io/project/car-mask/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Automatically identify the boundaries of the car in an image&lt;/li&gt;
 &lt;li&gt;Implemented U net in keras and whose mean dice coefficient was 0.9963&lt;/li&gt;
@@ -90,9 +90,9 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
     
     <item>
       <title>Paraphrase detection on Quora questions</title>
-      <link>/project/quora-pair/</link>
+      <link>https://sabyasachis.github.io/project/quora-pair/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/project/quora-pair/</guid>
+      <guid>https://sabyasachis.github.io/project/quora-pair/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Identify question pairs that have the same intent&lt;/li&gt;
 &lt;li&gt;Tried LSTM but got 0.489 log loss error using hand tuned features and parameters trained on logistic regression with regularization.&lt;/li&gt;

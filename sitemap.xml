@@ -1,473 +1,285 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://sabyasachis.github.io/authors/admin/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/0/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication_types/0/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/abhinav-jain/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/abhinav-jain/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ai-for-healthcare/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/ai-for-healthcare/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/akshaj-verma/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/akshaj-verma/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/chiranjib-bhattacharyya/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/chiranjib-bhattacharyya/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/cid/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/cid/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/computer-vision/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/computer-vision/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/deep-learning/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/disentanglement/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/disentanglement/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/domain-adaptation/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/domain-adaptation/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/explainability/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/explainability/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/generative-modelling/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/generative-modelling/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hrhq/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/hrhq/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/niramai/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/niramai/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication_types/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/rude/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/rude/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/santosh-shet/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/santosh-shet/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/segmentation/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/segmentation/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/suchit-jain/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/suchit-jain/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tezuesh-varshney/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/tezuesh-varshney/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/uda-seg/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/uda-seg/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vineetha-kondameedi/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/vineetha-kondameedi/</loc>
     <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication_types/2/</loc>
     <lastmod>2020-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/classification/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/classification/</loc>
     <lastmod>2020-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/covid-swift/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/covid-swift/</loc>
     <lastmod>2020-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/detection/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/detection/</loc>
     <lastmod>2020-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/geetha-manjunath/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/geetha-manjunath/</loc>
     <lastmod>2020-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/siva-teja-kakileti/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/siva-teja-kakileti/</loc>
     <lastmod>2020-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication_types/1/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ati/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/ati/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/dslr/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/dslr/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/prashant-kumar/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/prashant-kumar/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/robotics/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/robotics/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/slam/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/slam/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vanshil-shah/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/vanshil-shah/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vinay-v/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/vinay-v/</loc>
     <lastmod>2020-09-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/</loc>
     <lastmod>2020-07-09T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/generators/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/generators/</loc>
     <lastmod>2020-07-09T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/covid-seg/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/covid-seg/</loc>
     <lastmod>2020-07-09T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/continual-learning/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/continual-learning/</loc>
     <lastmod>2020-07-09T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/continual/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/continual/</loc>
     <lastmod>2020-07-09T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication_types/3/</loc>
     <lastmod>2020-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/scene-flow/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/scene-flow/</loc>
     <lastmod>2020-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dhiraj-shanbag/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/dhiraj-shanbag/</loc>
     <lastmod>2020-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jayant-priyadarshi/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/jayant-priyadarshi/</loc>
     <lastmod>2020-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/scene-flow/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/scene-flow/</loc>
     <lastmod>2020-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/cartographer/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/cartographer/</loc>
     <lastmod>2020-06-28T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/slam-basics/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/slam-basics/</loc>
     <lastmod>2020-06-26T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/mtl/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/mtl/</loc>
     <lastmod>2020-06-15T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/adas/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/adas/</loc>
     <lastmod>2020-05-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fair/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/fair/</loc>
     <lastmod>2020-05-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/soma-biswas/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/soma-biswas/</loc>
     <lastmod>2020-05-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tata/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/tata/</loc>
     <lastmod>2020-05-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/introdl/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/introdl/</loc>
     <lastmod>2020-04-28T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/machine-learning/</loc>
     <lastmod>2020-04-28T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/natural-language-processing/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/natural-language-processing/</loc>
     <lastmod>2020-04-28T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/hector/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/hector/</loc>
     <lastmod>2019-05-01T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/dlinslam/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/talk/dlinslam/</loc>
     <lastmod>2019-03-05T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/post/</loc>
     <lastmod>2018-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/residual-blocks/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/post/residual-blocks/</loc>
     <lastmod>2018-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/sep-conv/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/post/sep-conv/</loc>
     <lastmod>2018-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/group-conv/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/post/group-conv/</loc>
     <lastmod>2018-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/filter-sz/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/post/filter-sz/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/depth-estimation/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/depth-estimation/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/depth-map/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/depth-map/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/</loc>
     <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/recommender-system/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/recommender-system/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/basket-pred/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/basket-pred/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/time-series/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/time-series/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/deep-traffic/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/deep-traffic/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/reinforcement-learning/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/recomm-sys/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/recomm-sys/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/text-normalization/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/text-normalization/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/text-norm/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/text-norm/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/car-mask/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/car-mask/</loc>
     <lastmod>2017-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/paraphrase-detection/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/paraphrase-detection/</loc>
     <lastmod>2017-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/quora-pair/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/project/quora-pair/</loc>
     <lastmod>2017-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/5/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication_types/5/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/mtech/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/mtech/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/molecular-dynamics/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/molecular-dynamics/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mpi/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/mpi/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/parallel-progromming/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/parallel-progromming/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sathish-s.-vadhiyar/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/sathish-s.-vadhiyar/</loc>
     <lastmod>2016-07-30T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/semantic-context/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/publication/semantic-context/</loc>
     <lastmod>2015-05-05T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/partha-pratim-talukdar/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/partha-pratim-talukdar/</loc>
     <lastmod>2015-05-05T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r.-venkatesh-babu/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/r.-venkatesh-babu/</loc>
     <lastmod>2015-05-05T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/srinivas-kruthiventi-s-s/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/authors/srinivas-kruthiventi-s-s/</loc>
     <lastmod>2015-05-05T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://sabyasachis.github.io/tags/3d/lidar/</loc>
+  </url><url>
+    <loc>https://sabyasachis.github.io/categories/</loc>
   </url>
-  
-  <url>
-    <loc>/tags/3d/lidar/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
 </urlset>

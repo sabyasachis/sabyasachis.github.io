@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akshaj Verma | Sabyasachi Sahoo</title>
-    <link>/authors/akshaj-verma/</link>
-      <atom:link href="/authors/akshaj-verma/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/authors/akshaj-verma/</link>
+      <atom:link href="https://sabyasachis.github.io/authors/akshaj-verma/index.xml" rel="self" type="application/rss+xml" />
     <description>Akshaj Verma</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Akshaj Verma</title>
-      <link>/authors/akshaj-verma/</link>
+      <link>https://sabyasachis.github.io/authors/akshaj-verma/</link>
     </image>
     
     <item>
       <title>Unsupervised Domain Adaption for cross domain Lung Segmentation on Chest Xray Images</title>
-      <link>/publication/uda-seg/</link>
+      <link>https://sabyasachis.github.io/publication/uda-seg/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/uda-seg/</guid>
+      <guid>https://sabyasachis.github.io/publication/uda-seg/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
-      <link>/publication/dslr/</link>
+      <link>https://sabyasachis.github.io/publication/dslr/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/dslr/</guid>
+      <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAIR : Frugal ADAS for Indian Roads</title>
-      <link>/publication/fair/</link>
+      <link>https://sabyasachis.github.io/publication/fair/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/fair/</guid>
+      <guid>https://sabyasachis.github.io/publication/fair/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Series | Sabyasachi Sahoo</title>
-    <link>/tags/time-series/</link>
-      <atom:link href="/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/time-series/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Time Series</title>
-      <link>/tags/time-series/</link>
+      <link>https://sabyasachis.github.io/tags/time-series/</link>
     </image>
     
     <item>
       <title>Smart Basket Prediction</title>
-      <link>/project/basket-pred/</link>
+      <link>https://sabyasachis.github.io/project/basket-pred/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/basket-pred/</guid>
+      <guid>https://sabyasachis.github.io/project/basket-pred/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Using past orders data, predict which previously purchased products will be in a user’s next order.&lt;/li&gt;
 &lt;li&gt;Trained on relevant engineered features based on users and items&lt;/li&gt;

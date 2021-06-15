@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tezuesh Varshney | Sabyasachi Sahoo</title>
-    <link>/authors/tezuesh-varshney/</link>
-      <atom:link href="/authors/tezuesh-varshney/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/authors/tezuesh-varshney/</link>
+      <atom:link href="https://sabyasachis.github.io/authors/tezuesh-varshney/index.xml" rel="self" type="application/rss+xml" />
     <description>Tezuesh Varshney</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tezuesh Varshney</title>
-      <link>/authors/tezuesh-varshney/</link>
+      <link>https://sabyasachis.github.io/authors/tezuesh-varshney/</link>
     </image>
     
     <item>
       <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
-      <link>/publication/hrhq/</link>
+      <link>https://sabyasachis.github.io/publication/hrhq/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/publication/hrhq/</guid>
+      <guid>https://sabyasachis.github.io/publication/hrhq/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>

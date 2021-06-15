@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Sabyasachi Sahoo</title>
-    <link>/tags/machine-learning/</link>
-      <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabyasachis.github.io/tags/machine-learning/</link>
+      <atom:link href="https://sabyasachis.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Apr 2020 17:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://sabyasachis.github.io/tags/machine-learning/</link>
     </image>
     
     <item>
       <title>Introduction to Deep Learning</title>
-      <link>/talk/introdl/</link>
+      <link>https://sabyasachis.github.io/talk/introdl/</link>
       <pubDate>Tue, 28 Apr 2020 17:00:00 +0000</pubDate>
-      <guid>/talk/introdl/</guid>
+      <guid>https://sabyasachis.github.io/talk/introdl/</guid>
       <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Smart Basket Prediction</title>
-      <link>/project/basket-pred/</link>
+      <link>https://sabyasachis.github.io/project/basket-pred/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/project/basket-pred/</guid>
+      <guid>https://sabyasachis.github.io/project/basket-pred/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Using past orders data, predict which previously purchased products will be in a user’s next order.&lt;/li&gt;
 &lt;li&gt;Trained on relevant engineered features based on users and items&lt;/li&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Text Normalization for English</title>
-      <link>/project/text-norm/</link>
+      <link>https://sabyasachis.github.io/project/text-norm/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/project/text-norm/</guid>
+      <guid>https://sabyasachis.github.io/project/text-norm/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Convert English text from written expressions into spoken forms&lt;/li&gt;
 &lt;li&gt;Obtained 99.637% prediction accuracy using xgboost and std. text cleaning&lt;/li&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Paraphrase detection on Quora questions</title>
-      <link>/project/quora-pair/</link>
+      <link>https://sabyasachis.github.io/project/quora-pair/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/project/quora-pair/</guid>
+      <guid>https://sabyasachis.github.io/project/quora-pair/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Identify question pairs that have the same intent&lt;/li&gt;
 &lt;li&gt;Tried LSTM but got 0.489 log loss error using hand tuned features and parameters trained on logistic regression with regularization.&lt;/li&gt;
