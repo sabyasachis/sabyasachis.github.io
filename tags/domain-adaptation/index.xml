@@ -5,7 +5,7 @@
     <link>https://sabyasachis.github.io/tags/domain-adaptation/</link>
       <atom:link href="https://sabyasachis.github.io/tags/domain-adaptation/index.xml" rel="self" type="application/rss+xml" />
     <description>Domain Adaptation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Domain Adaptation</title>
@@ -13,26 +13,60 @@
     </image>
     
     <item>
-      <title>Unsupervised Domain Adaption for cross domain Lung Segmentation on Chest Xray Images</title>
-      <link>https://sabyasachis.github.io/publication/uda-seg/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>https://sabyasachis.github.io/publication/uda-seg/</guid>
+      <title>Defending adversarial attacks on heatmap explanations using optimal ensembling</title>
+      <link>https://sabyasachis.github.io/publication/adversarial-xai/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/adversarial-xai/</guid>
       <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>COVID-SWIFT : Simple Whatsapp based x-ray Image interpretation at your Finger Tips for potential COVID19 patients</title>
+      <title>Unpaired LiDAR to LiDAR translation</title>
+      <link>https://sabyasachis.github.io/publication/dslrv2/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/dslrv2/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Understanding Domain Adaptation quantitatively</title>
+      <link>https://sabyasachis.github.io/publication/uda-seg/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/uda-seg/</guid>
+      <description>&lt;p&gt;In this project, we seek to address the following problems in domain adaptation (DA):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How can we meaningfully quantify or characterize the domain gap between two datasets from different domains?&lt;/li&gt;
+&lt;li&gt;What practices during model training/testing help/hinder DA?&lt;/li&gt;
+&lt;li&gt;How does domain adaptation change in the following settings:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Supervision&lt;/li&gt;
+&lt;li&gt;Domain gap&lt;/li&gt;
+&lt;li&gt;Model architecture&lt;/li&gt;
+&lt;li&gt;Loss function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Can we perform AutoDA or Automatic Domain adaptation for any two datasets using the above information?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XraySetu : AI driven Xray Interpretation for Doctors via WhatsApp</title>
       <link>https://sabyasachis.github.io/publication/covid-swift/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/covid-swift/</guid>
-      <description></description>
+      <description>&lt;p&gt;We will soon be sharing our paper with further details.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
       <link>https://sabyasachis.github.io/publication/dslr/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
     </item>

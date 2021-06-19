@@ -5,12 +5,39 @@
     <link>https://sabyasachis.github.io/talk/</link>
       <atom:link href="https://sabyasachis.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2020 20:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://sabyasachis.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Explainable AI for Autonomous Driving</title>
+      <link>https://sabyasachis.github.io/talk/xai4ad/</link>
+      <pubDate>Mon, 10 May 2021 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/xai4ad/</guid>
+      <description>&lt;p&gt;In this talk, we review various explainability models that can be applied to interpret pre-trained models and see how they can leveraged for autonomous driving systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of Image to Image Translation - Methods and Applications</title>
+      <link>https://sabyasachis.github.io/talk/i2i-review/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/i2i-review/</guid>
+      <description>&lt;p&gt;In this talk, I review Image to Image Translation. First, we go over different types of image to image translation. Next, we look at following popular image to image translation methods: pix2pix, GauGAN, CycleGAN, UNIT, MUNIT, and StarGAN. Finally, we look at various applications of image to image translation that are relevant to autonomous driving.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Short Survey of SLAM</title>
+      <link>https://sabyasachis.github.io/talk/slam-survey/</link>
+      <pubDate>Sat, 01 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/slam-survey/</guid>
+      <description>&lt;p&gt;A Short Survey of SLAM with a special focus on deep learning for SLAM and LiDAR-based SLAM.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Why do we need generative models?</title>

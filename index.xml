@@ -5,7 +5,7 @@
     <link>https://sabyasachis.github.io/</link>
       <atom:link href="https://sabyasachis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sabyasachi Sahoo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sabyasachi Sahoo</title>
@@ -13,55 +13,116 @@
     </image>
     
     <item>
-      <title>CID : Captioning for Interpretability and Disentanglement</title>
+      <title>Defending adversarial attacks on heatmap explanations using optimal ensembling</title>
+      <link>https://sabyasachis.github.io/publication/adversarial-xai/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/adversarial-xai/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unpaired LiDAR to LiDAR translation</title>
+      <link>https://sabyasachis.github.io/publication/dslrv2/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/dslrv2/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Automatic Concept Extraction on Chest X-Rays</title>
       <link>https://sabyasachis.github.io/publication/cid/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/cid/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <description>&lt;p&gt;(a) Patterns (or abstract concepts) identified by AIIMS as COVID-19 features. Can we extract them from a COVID-19 Dataset using a pre-trained model? Yes, using Automatic Concept Extraction or ACE. Next, we run ACE on a PASCAL VOC dataset to demonstrate its effectiveness for extracting such concepts automatically from a dataset and a pre-trained model and also evaluate its concept extraction performance.&lt;/p&gt;
+&lt;p&gt;(b) Here, we run ACE to extract high-level concepts for the &amp;ldquo;Garbage-Truck&amp;rdquo; class and show the top 3 extracted concept clusters using ACE. The top 3 extracted concepts are &amp;ldquo;road&amp;rdquo;, &amp;ldquo;sky&amp;rdquo;, and &amp;ldquo;road&amp;rdquo; for &amp;ldquo;Garbage Truck&amp;rdquo;. But these are not the concepts that humans typically look for to identify garbage trucks. Can we improve the concept extraction? Yes. Our proposed approach attempts to address most of the problems in ACE.&lt;/p&gt;
+&lt;p&gt;(c) Here, we show that the top 3 concepts identified by our method for the &amp;ldquo;Garbage-Truck&amp;rdquo; class are &amp;ldquo;body of the truck&amp;rdquo;, &amp;ldquo;trees&amp;rdquo;, and &amp;ldquo;rear-view mirror&amp;rdquo;. And these are the concepts that humans also look for while trying to identify a garbage truck. And these concepts were extracted only using a pre-trained model and classification dataset.&lt;/p&gt;
+&lt;p&gt;As a next step, we will use our proposed approach on medical imaging datasets to extract COVID-19 concepts and get it validated by radiologists.&lt;/p&gt;
+&lt;p&gt;This is an ongoing research project. If this sounds interesting, for further details or future collaboration opportunities, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
+      <title>DCT-VAE: Capturing Low level and High Level features for image generation</title>
       <link>https://sabyasachis.github.io/publication/hrhq/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/hrhq/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <description>&lt;p&gt;(a) What is DCT? Figure (a) shows how f(x,y), an image in spatial domain, can be converted to F(u,v), in frequency domain, using Discrete Cosine Transform or DCT. The original image f(x,y) can be exactly recovered from F(u,v), the image in frequency domain, using inverse DCT or IDCT.&lt;/p&gt;
+&lt;p&gt;(b) What does it mean to convert an original image to DCT matrix? Figure (b) shows the frequency in black and white, corresponding to each element in DCT matrix. The numbers are the elements of the DCT matrix and denote the coefficients for the frequency. They are obtained after applying DCT on original images. We can see that upper left elements of the DCT matrix correspond to low frequency. As we go down and towards right, we see the elements of DCT matrix corresponding to higher frequencies gradually.&lt;/p&gt;
+&lt;p&gt;(c) Why do we care about different frequencies of original images? Figure (c) shows that as we go from left to right, we add higher frequency details to the image, which results in increasing image quality or resolution of the image. In other words, low frequency features (images at the left) captures the global features of the image, like face of a woman. The high frequency features (images at the right) correspond to the local features of the image like texture of eyes or hair, that helps it to build a higher quality image.&lt;/p&gt;
+&lt;p&gt;(d) How can we use DCT to extract these global and local features? Let &lt;em&gt;k&lt;/em&gt; be an anti-diagonal level in DCT matrix. In the top row images, the non-zero DCT matrix elements are shown in black, whereas the masked-out elements of the DCT matrix have been shown in white.  The frequency at a given level is more or less same, as seen in Figure (b). This implies that all the elements at a given level of &lt;em&gt;k&lt;/em&gt; contain similar abstract information about the image. Now coming back to figure (d), as we go from left to right for the top row of images, we add a new level &lt;em&gt;k&lt;/em&gt; or more local features to our image. And in the bottom row of images, starting from the most high level feature of the image, the image of Barack Obama becomes increasingly sharp due to increasing local features. Therefore, the different levels of &lt;em&gt;k&lt;/em&gt; in a DCT matrix constitutes the global or local features of the image.&lt;/p&gt;
+&lt;p&gt;(e) What can we do with these global and local features of an image? The main goal of high quality image generation is to learn these global and local features accurately. This has been solved in literature in two paradigms: (1) There are different models that specialize in learning the global or local features and they are trained jointly (like in VAE + Autoregressive models). (2) The model implicitly learns about the global and local features in different levels of hierarchy (like in Hierarchical VAE). But in both these paradigms, the models have to learn about global and local features of the images without access to these features. In Figure (e), we show that our proposed approach can improve the performance of any image generation model by explicitly using the global and local features. In this figure, we show that compared to Vanilla VAE (2nd row) and Perceptual VAE (3rd row), our approach helps the model to learn the global and local features accurately. Specifically, we can see that hairs and eyes of the faces generated by our approach are much sharper than the baselines.&lt;/p&gt;
+&lt;p&gt;This is an ongoing research project. If this sounds interesting, for further details or future collaboration opportunities, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
-      <link>https://sabyasachis.github.io/publication/rude/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>https://sabyasachis.github.io/publication/rude/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Domain Adaption for cross domain Lung Segmentation on Chest Xray Images</title>
+      <title>Towards Understanding Domain Adaptation quantitatively</title>
       <link>https://sabyasachis.github.io/publication/uda-seg/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/uda-seg/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <description>&lt;p&gt;In this project, we seek to address the following problems in domain adaptation (DA):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How can we meaningfully quantify or characterize the domain gap between two datasets from different domains?&lt;/li&gt;
+&lt;li&gt;What practices during model training/testing help/hinder DA?&lt;/li&gt;
+&lt;li&gt;How does domain adaptation change in the following settings:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Supervision&lt;/li&gt;
+&lt;li&gt;Domain gap&lt;/li&gt;
+&lt;li&gt;Model architecture&lt;/li&gt;
+&lt;li&gt;Loss function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Can we perform AutoDA or Automatic Domain adaptation for any two datasets using the above information?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>COVID-SWIFT : Simple Whatsapp based x-ray Image interpretation at your Finger Tips for potential COVID19 patients</title>
+      <title>XraySetu : AI driven Xray Interpretation for Doctors via WhatsApp</title>
       <link>https://sabyasachis.github.io/publication/covid-swift/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/covid-swift/</guid>
-      <description></description>
+      <description>&lt;p&gt;We will soon be sharing our paper with further details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explainable AI for Autonomous Driving</title>
+      <link>https://sabyasachis.github.io/talk/xai4ad/</link>
+      <pubDate>Mon, 10 May 2021 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/xai4ad/</guid>
+      <description>&lt;p&gt;In this talk, we review various explainability models that can be applied to interpret pre-trained models and see how they can leveraged for autonomous driving systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of Image to Image Translation - Methods and Applications</title>
+      <link>https://sabyasachis.github.io/talk/i2i-review/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/i2i-review/</guid>
+      <description>&lt;p&gt;In this talk, I review Image to Image Translation. First, we go over different types of image to image translation. Next, we look at following popular image to image translation methods: pix2pix, GauGAN, CycleGAN, UNIT, MUNIT, and StarGAN. Finally, we look at various applications of image to image translation that are relevant to autonomous driving.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
       <link>https://sabyasachis.github.io/publication/dslr/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Short Survey of SLAM</title>
+      <link>https://sabyasachis.github.io/talk/slam-survey/</link>
+      <pubDate>Sat, 01 Aug 2020 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/slam-survey/</guid>
+      <description>&lt;p&gt;A Short Survey of SLAM with a special focus on deep learning for SLAM and LiDAR-based SLAM.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -136,7 +197,8 @@
       <link>https://sabyasachis.github.io/publication/fair/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/fair/</guid>
-      <description></description>
+      <description>&lt;p&gt;For more information on this project, or to get access to code and datasets used in this project, please get in touch with me or one of the authors.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -146,6 +208,14 @@
       <guid>https://sabyasachis.github.io/talk/introdl/</guid>
       <description>&lt;p&gt;In this talk, I discuss why we are seeing incredible success in using deep learning based methods and what are some of its notable applications.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Proximal pose search for adapting SLAM in dynamic environments on slow moving UGVs.</title>
+      <link>https://sabyasachis.github.io/publication/proximal-pose/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/proximal-pose/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -247,6 +317,52 @@ $$p &amp;gt; 1/n$$
 where $p$ is sparsity and $n$ is dimension of the matrix,&lt;/p&gt;
 &lt;p&gt;then Mean Square Error of the algorithm in the paper (and our implementation) is bounded by
 $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://sabyasachis.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[13/06/21]&lt;/strong&gt; &lt;a href=&#34;../publication/covid-swift&#34;&gt;XraySetu&lt;/a&gt; is covered on national television on &lt;a href=&#34;https://special.ndtv.com/indias-helping-hands-93/video-detail/we-wanted-to-reduce-dependence-on-rt-pcr-test-to-detect-covid-umakant-soni-589922&#34;&gt;NDTV&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[11/06/21]&lt;/strong&gt; &lt;a href=&#34;../publication/covid-swift&#34;&gt;XraySetu&lt;/a&gt; is widely covered in print and online media by &lt;a href=&#34;https://www.ndtv.com/business/a-platform-for-early-covid-detection-over-whatsapp-know-how-it-works-2454475&#34;&gt;NDTV&lt;/a&gt;, &lt;a href=&#34;https://www.gadgetsnow.com/tech-news/government-launches-x-ray-setu-on-whatsapp-how-it-can-help-in-covid-detection/articleshow/83166847.cms?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=GadgetsNowWAP&#34;&gt;Gadgets Now&lt;/a&gt;, &lt;a href=&#34;https://www.livemint.com/science/aidriven-platform-xraysetu-to-facilitate-early-covid-interventions-over-whatsapp-11622610842322.html&#34;&gt;mint&lt;/a&gt;, &lt;a href=&#34;https://www.hindustantimes.com/india-news/know-how-centre-s-x-ray-setu-on-whatsapp-can-detect-covid19-101622624422305.html?utm_source=twitter&#34;&gt;Hindustan Times&lt;/a&gt;, &lt;a href=&#34;https://www.business-standard.com/article/current-affairs/x-ray-setu-plans-to-on-board-10k-doctors-for-covid-detection-in-rural-areas-121060100523_1.html&#34;&gt;Business Standard&lt;/a&gt;, &lt;a href=&#34;https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/x-ray-setu-plans-to-on-board-10k-doctors-for-covid-detection-in-rural-areas/articleshow/83139712.cms?from=mdr&#34;&gt;Economic Times&lt;/a&gt;, &lt;a href=&#34;https://health.economictimes.indiatimes.com/news/diagnostics/the-core-idea-of-xraysetu-is-to-give-doctors-another-screening-option-for-covid-19-umakant-soniceo-artpark/83103278&#34;&gt;ET HealthWorld&lt;/a&gt;, &lt;a href=&#34;https://www.knocksense.com/kanpur/xraysetu-artpark-iit-kanpur-alumnus&#34;&gt;KnockSense&lt;/a&gt;, &lt;a href=&#34;https://bangaloremirror.indiatimes.com/bangalore/others/smart-and-fastest/articleshow/82983856.cms&#34;&gt;Bangalore Mirror&lt;/a&gt;, &lt;a href=&#34;https://www.jagran.com/uttar-pradesh/kanpur-city-covid-report-will-be-on-whatsapp-x-ray-setu-is-developed-by-iit-kanpur-alumni-umakant-soni-jagran-special-21687794.html?utm_source=referral&amp;amp;utm_medium=TW&amp;amp;utm_campaign=social_share&#34;&gt;Jagran&lt;/a&gt;, &lt;a href=&#34;https://zeenews.india.com/hindi/health/health-news-xray-setu-will-review-lung-xray-to-detect-covid-19-know-how-samp/909566&#34;&gt;Zee News Hindi&lt;/a&gt;, and &lt;a href=&#34;https://www.youtube.com/watch?v=VeI2_rUw_C4&amp;amp;ab_channel=PrasarBharatiNewsServices&#34;&gt;Prasar Bharati (video)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[02/06/21]&lt;/strong&gt; &lt;a href=&#34;../publication/covid-swift&#34;&gt;XraySetu&lt;/a&gt; is endorsed by &lt;a href=&#34;https://dst.gov.in/new-ai-driven-platform-will-facilitate-early-covid-interventions-over-whatsapp&#34;&gt;Department of Science and Technology, Government of India&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[02/06/21]&lt;/strong&gt; I am affiliated to &lt;a href=&#34;https://www.artpark.in/&#34;&gt;ARTPARK&lt;/a&gt; as Consultant.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[28/05/21]&lt;/strong&gt; &lt;a href=&#34;../publication/dslr&#34;&gt;DSLR&lt;/a&gt; features on &lt;a href=&#34;https://twitter.com/arXiv_Daily/status/1398340343427309570&#34;&gt;arXiv Daily&lt;/a&gt; and &lt;a href=&#34;https://deepai.org/publication/dslr-dynamic-to-static-lidar-scan-reconstruction-using-adversarially-trained-autoencoder&#34;&gt;DeepAI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[26/05/21]&lt;/strong&gt; Our new paper titled &amp;ldquo;&lt;a href=&#34;../publication/dslr&#34;&gt;DSLR: Dynamic to Static LiDAR Scan Reconstruction Using Adversarially Trained Autoencoder&lt;/a&gt;&amp;rdquo; is live on &lt;a href=&#34;https://arxiv.org/abs/2105.12774&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[25/05/21]&lt;/strong&gt; We open source &lt;a href=&#34;https://github.com/dslrproject/dslr/&#34;&gt;Code&lt;/a&gt; and two newly proposed LiDAR &lt;a href=&#34;https://github.com/dslrproject/dslr/tree/master/Data&#34;&gt;Datasets&lt;/a&gt; of &lt;a href=&#34;../publication/dslr&#34;&gt;DSLR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[24/05/21]&lt;/strong&gt; &lt;a href=&#34;https://mllab.csa.iisc.ac.in/covid-swift/&#34;&gt;COVID-SWIFT&lt;/a&gt; is launched as &lt;a href=&#34;https://www.xraysetu.com/&#34;&gt;XraySetu&lt;/a&gt;. In collaboration with &lt;a href=&#34;https://www.niramai.com/&#34;&gt;Niramai&lt;/a&gt; and &lt;a href=&#34;https://www.artpark.in/&#34;&gt;ARTPARK&lt;/a&gt;. &lt;a href=&#34;../publication/covid-swift&#34;&gt;Project Page&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;!-- **[24/05/21]** [COVID-SWIFT](https://mllab.csa.iisc.ac.in/covid-swift/) is launched as [XraySetu](https://www.xraysetu.com/), a free-to-use whatsapp chatbot based automatic chest X-Ray report generation service for doctors. This is in a collaboration between [IISc](https://iisc.ac.in/), [Niramai](https://www.niramai.com/) and [ARTPARK](https://www.artpark.in/). Please refer to the [Demo Page](https://www.xraysetu.com/) and [Project Page](../publication/covid-swift) for more details. --&gt;
+&lt;p&gt;&lt;strong&gt;[11/03/21]&lt;/strong&gt; I have accepted to join &lt;a href=&#34;https://mila.quebec/en/&#34;&gt;MILA&lt;/a&gt; with &lt;a href=&#34;https://www.ulaval.ca/en&#34;&gt;Université Laval&lt;/a&gt; as Ph.D. student in fall 2021. Under &lt;a href=&#34;http://vision.gel.ulaval.ca/~cgagne/english.html&#34;&gt;Prof. Christian Gagné&lt;/a&gt;, &lt;a href=&#34;https://mila.quebec/en/&#34;&gt;MILA&lt;/a&gt; and &lt;a href=&#34;https://www.i3s.unice.fr/~precioso/&#34;&gt;Prof. Frédéric Precioso&lt;/a&gt;, &lt;a href=&#34;https://www.inria.fr/en&#34;&gt;INRIA&lt;/a&gt;. &lt;!-- I will be advised by [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/english.html), [MILA](https://mila.quebec/en/) &amp; [Université Laval](https://www.ulaval.ca/en) and co-advised by [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), [INRIA](https://www.inria.fr/en) &amp; [Université Côte d&#39;Azur](https://univ-cotedazur.eu/). I will also be part of the [DEEL](https://www.deel.ai/) project. --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[02/02/21]&lt;/strong&gt; I present our work titled &amp;ldquo;&lt;a href=&#34;../publication/dslr&#34;&gt;DSLR: Dynamic to Static LiDAR Scan Reconstruction Using Adversarially Trained Autoencoder&lt;/a&gt;&amp;rdquo; in AAAI 2021. Links: &lt;a href=&#34;../publication/dslr/DSLR_poster.pdf&#34;&gt;Poster&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=hHgiC0m5ee0&amp;amp;t=1s&amp;amp;ab_channel=SabyasachiSahoo&#34;&gt;Teaser Video&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=Mi8DNw6F5Mk&amp;amp;t=1s&amp;amp;ab_channel=PRASHANTKUMAR&#34;&gt;Conference Video&lt;/a&gt;, &lt;a href=&#34;../publication/dslr/DSLR_slides.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[02/12/20]&lt;/strong&gt; Our new paper titled &amp;ldquo;&lt;a href=&#34;../publication/dslr&#34;&gt;DSLR: Dynamic to Static LiDAR Scan Reconstruction Using Adversarially Trained Autoencoder&lt;/a&gt;&amp;rdquo; is accepted at &lt;a href=&#34;https://aaai.org/Conferences/AAAI-21/&#34;&gt;AAAI 2021&lt;/a&gt;. In collaboration with &lt;a href=&#34;https://www.atimotors.com/&#34;&gt;Ati Motors&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/08/20]&lt;/strong&gt; I am joining &lt;a href=&#34;https://sharelabs.in/&#34;&gt;SHARE Labs&lt;/a&gt; as part-time Research Mentor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[09/07/20]&lt;/strong&gt; &lt;a href=&#34;../publication/covid-swift&#34;&gt;COVID-SWIFT&lt;/a&gt; is covered by &lt;a href=&#34;https://www.thehindubusinessline.com/news/ai-triaging-now-doctors-in-rural-areas-whatsapp-x-rays-for-covid-management/article32029216.ece&#34;&gt;The Hindu&lt;/a&gt; and &lt;a href=&#34;https://timesofindia.indiatimes.com/business/india-business/bengaluru-based-start-up-iisc-develops-covid-swift-rapid-ai-solutions/articleshow/76876486.cms&#34;&gt;The Times of India&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[05/07/20]&lt;/strong&gt; We launch &lt;a href=&#34;https://mllab.csa.iisc.ac.in/covid-swift/&#34;&gt;COVID-SWIFT&lt;/a&gt; as a small scale pilot. In collaboration with &lt;a href=&#34;https://www.niramai.com/&#34;&gt;Niramai&lt;/a&gt;, and &lt;a href=&#34;http://www.cardiologyatdoorstepsfoundation.com/&#34;&gt;Cardiology At Doorsteps&lt;/a&gt;. &lt;a href=&#34;../publication/covid-swift&#34;&gt;Project Page&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;!-- **[05/07/20]** We launch [COVID-SWIFT](https://mllab.csa.iisc.ac.in/covid-swift/) as a  whatsapp group based service for doctors to obtain an AI generated chest X-Ray report for potential COVID-19 patients. We are running a small scale pilot for interested doctors. This is in a collaboration betwen [IISc](https://iisc.ac.in/), [Niramai](https://www.niramai.com/), and [Cardiology At Doorsteps](http://www.cardiologyatdoorstepsfoundation.com/). Please refer to [Project Page](../publication/covid-swift) for more details. --&gt;
+&lt;p&gt;&lt;strong&gt;[31/07/20]&lt;/strong&gt; We release &lt;a href=&#34;../publication/scene-flow/Scene_Flow.pdf&#34;&gt;preprint&lt;/a&gt; of our work titled &amp;ldquo;&lt;a href=&#34;../publication/scene-flow&#34;&gt;An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31/05/20]&lt;/strong&gt; We release &lt;a href=&#34;../publication/fair/FAIR_ADAS.pdf&#34;&gt;preprint&lt;/a&gt; of our work titled &amp;ldquo;&lt;a href=&#34;../publication/fair&#34;&gt;FAIR : Frugal ADAS for Indian Roads&lt;/a&gt;&amp;rdquo;. In collaboration with &lt;a href=&#34;https://www.tatamotors.com/&#34;&gt;Tata Motors&lt;/a&gt;. For code/datasets, please get in touch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[15/07/19]&lt;/strong&gt; I will present our &lt;a href=&#34;../publication/proximal-pose/Proximal_Poster.pdf&#34;&gt;poster&lt;/a&gt; titled &amp;ldquo;&lt;a href=&#34;../publication/proximal-pose&#34;&gt;Proximal pose search for adapting SLAM in dynamic environments on slow moving UGVs&lt;/a&gt;&amp;rdquo; in &lt;a href=&#34;https://iisc.ac.in/events/cyphyss-2019-3rd-cyber-physical-systems-symposium/&#34;&gt;3rd Cyber-Physical Systems Symposium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[18/02/19]&lt;/strong&gt; I am joining Machine Learning Lab, IISc as Research Associate under the guidance of &lt;a href=&#34;https://www.csa.iisc.ac.in/~chiru/&#34;&gt;Prof. Chiranjib Bhattacharyya&lt;/a&gt;. I will also be affiliated to &lt;a href=&#34;https://cps.iisc.ac.in/&#34;&gt;RBCCPS&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/06/18]&lt;/strong&gt; I am joining &lt;a href=&#34;https://icecreamlabs.com/&#34;&gt;Donut Research Labs&lt;/a&gt; as Deep Learning Engineer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[30/04/18]&lt;/strong&gt; I finish 3rd place on &lt;a href=&#34;https://www.so1.ai/&#34;&gt;SO1&lt;/a&gt; Customer Basket Prediction. &lt;a href=&#34;https://github.com/sabyasachis/basket_prediction&#34;&gt;Code&lt;/a&gt; and &lt;a href=&#34;../project/basket-pred/&#34;&gt;Project Page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[30/03/18]&lt;/strong&gt; I am finalist in &lt;a href=&#34;https://github.com/lexfridman/deeptraffic&#34;&gt;Deep Traffic&lt;/a&gt; competition at NVIDIA. &lt;a href=&#34;http://localhost:1313/project/deep-traffic/&#34;&gt;Project Page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[30/01/18]&lt;/strong&gt; I am winner of &lt;a href=&#34;https://medium.com/nurture-ai/sabyasachi-sahoo-bringing-nlp-and-rl-together-65e135cd48e1&#34;&gt;Global NIPS Paper Implementation Challenge&lt;/a&gt;. &lt;a href=&#34;https://github.com/sabyasachis/thyFriendMyFriend&#34;&gt;Code&lt;/a&gt; and &lt;a href=&#34;../project/recomm-sys/&#34;&gt;Project Page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[08/08/16]&lt;/strong&gt; I am joining &lt;a href=&#34;https://www.nvidia.com/en-in/&#34;&gt;NVIDIA&lt;/a&gt; Bangalore as System Software Engineer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31/07/16]&lt;/strong&gt; I release my &lt;a href=&#34;../publication/mtech/Mtech_Thesis.pdf&#34;&gt;M.Tech Thesis&lt;/a&gt; titled &amp;ldquo;&lt;a href=&#34;../publication/mtech&#34;&gt;Hierarchical Task Mapping on Dragonfly topology for scaling Molecular Dynamics&lt;/a&gt;&amp;rdquo;. Awarded distinction.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[31/05/15]&lt;/strong&gt; We release &lt;a href=&#34;../publication/semantic-context/Semantic_Context.pdf&#34;&gt;preprint&lt;/a&gt; and &lt;a href=&#34;https://github.com/sabyasachis/semantic-context-in-cnn&#34;&gt;code&lt;/a&gt; of our work titled &amp;ldquo;&lt;a href=&#34;../publication/semantic-context&#34;&gt;Establishing Semantic relationships among object classes using Deep Networks to Image Classification&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/08/14]&lt;/strong&gt; I am joining &lt;a href=&#34;https://cds.iisc.ac.in/&#34;&gt;CDS Department&lt;/a&gt; at &lt;a href=&#34;https://iisc.ac.in/&#34;&gt;IISc Bangalore&lt;/a&gt; as a M.Tech student in Computational Science.&lt;/p&gt;
+
 </description>
     </item>
     

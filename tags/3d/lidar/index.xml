@@ -13,18 +13,9 @@
     </image>
     
     <item>
-      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
-      <link>https://sabyasachis.github.io/publication/rude/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>https://sabyasachis.github.io/publication/rude/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
       <link>https://sabyasachis.github.io/publication/dslr/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
     </item>
@@ -47,6 +38,14 @@
 &lt;a href=&#34;https://www.youtube.com/watch?v=Oo9SsIvyxZA&amp;amp;ab_channel=SabyasachiSahoo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, I have also explained the basics of SLAM and gave intuitions required to understand the novel ideas proposed in this paper. The code for Cartographer paper is open sourced 
 &lt;a href=&#34;https://google-cartographer-ros.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and widely used and deployed in self driving community for performing accurate LIDAR based SLAM.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Proximal pose search for adapting SLAM in dynamic environments on slow moving UGVs.</title>
+      <link>https://sabyasachis.github.io/publication/proximal-pose/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/proximal-pose/</guid>
+      <description></description>
     </item>
     
   </channel>

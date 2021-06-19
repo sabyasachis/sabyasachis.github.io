@@ -5,12 +5,21 @@
     <link>https://sabyasachis.github.io/tags/reinforcement-learning/</link>
       <atom:link href="https://sabyasachis.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Reinforcement Learning</title>
       <link>https://sabyasachis.github.io/tags/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Explainable AI for Autonomous Driving</title>
+      <link>https://sabyasachis.github.io/talk/xai4ad/</link>
+      <pubDate>Mon, 10 May 2021 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/xai4ad/</guid>
+      <description>&lt;p&gt;In this talk, we review various explainability models that can be applied to interpret pre-trained models and see how they can leveraged for autonomous driving systems.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep Traffic for self driving car</title>

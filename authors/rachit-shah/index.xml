@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachit Shah | Sabyasachi Sahoo</title>
+    <link>https://sabyasachis.github.io/authors/rachit-shah/</link>
+      <atom:link href="https://sabyasachis.github.io/authors/rachit-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachit Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rachit Shah</title>
+      <link>https://sabyasachis.github.io/authors/rachit-shah/</link>
+    </image>
+    
+    <item>
+      <title>Improving Automatic Concept Extraction on Chest X-Rays</title>
+      <link>https://sabyasachis.github.io/publication/cid/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/cid/</guid>
+      <description>&lt;p&gt;(a) Patterns (or abstract concepts) identified by AIIMS as COVID-19 features. Can we extract them from a COVID-19 Dataset using a pre-trained model? Yes, using Automatic Concept Extraction or ACE. Next, we run ACE on a PASCAL VOC dataset to demonstrate its effectiveness for extracting such concepts automatically from a dataset and a pre-trained model and also evaluate its concept extraction performance.&lt;/p&gt;
+&lt;p&gt;(b) Here, we run ACE to extract high-level concepts for the &amp;ldquo;Garbage-Truck&amp;rdquo; class and show the top 3 extracted concept clusters using ACE. The top 3 extracted concepts are &amp;ldquo;road&amp;rdquo;, &amp;ldquo;sky&amp;rdquo;, and &amp;ldquo;road&amp;rdquo; for &amp;ldquo;Garbage Truck&amp;rdquo;. But these are not the concepts that humans typically look for to identify garbage trucks. Can we improve the concept extraction? Yes. Our proposed approach attempts to address most of the problems in ACE.&lt;/p&gt;
+&lt;p&gt;(c) Here, we show that the top 3 concepts identified by our method for the &amp;ldquo;Garbage-Truck&amp;rdquo; class are &amp;ldquo;body of the truck&amp;rdquo;, &amp;ldquo;trees&amp;rdquo;, and &amp;ldquo;rear-view mirror&amp;rdquo;. And these are the concepts that humans also look for while trying to identify a garbage truck. And these concepts were extracted only using a pre-trained model and classification dataset.&lt;/p&gt;
+&lt;p&gt;As a next step, we will use our proposed approach on medical imaging datasets to extract COVID-19 concepts and get it validated by radiologists.&lt;/p&gt;
+&lt;p&gt;This is an ongoing research project. If this sounds interesting, for further details or future collaboration opportunities, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

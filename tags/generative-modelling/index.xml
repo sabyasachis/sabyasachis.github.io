@@ -5,7 +5,7 @@
     <link>https://sabyasachis.github.io/tags/generative-modelling/</link>
       <atom:link href="https://sabyasachis.github.io/tags/generative-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Generative Modelling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Generative Modelling</title>
@@ -13,36 +13,32 @@
     </image>
     
     <item>
-      <title>CID : Captioning for Interpretability and Disentanglement</title>
-      <link>https://sabyasachis.github.io/publication/cid/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>https://sabyasachis.github.io/publication/cid/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
+      <title>DCT-VAE: Capturing Low level and High Level features for image generation</title>
       <link>https://sabyasachis.github.io/publication/hrhq/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/hrhq/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <description>&lt;p&gt;(a) What is DCT? Figure (a) shows how f(x,y), an image in spatial domain, can be converted to F(u,v), in frequency domain, using Discrete Cosine Transform or DCT. The original image f(x,y) can be exactly recovered from F(u,v), the image in frequency domain, using inverse DCT or IDCT.&lt;/p&gt;
+&lt;p&gt;(b) What does it mean to convert an original image to DCT matrix? Figure (b) shows the frequency in black and white, corresponding to each element in DCT matrix. The numbers are the elements of the DCT matrix and denote the coefficients for the frequency. They are obtained after applying DCT on original images. We can see that upper left elements of the DCT matrix correspond to low frequency. As we go down and towards right, we see the elements of DCT matrix corresponding to higher frequencies gradually.&lt;/p&gt;
+&lt;p&gt;(c) Why do we care about different frequencies of original images? Figure (c) shows that as we go from left to right, we add higher frequency details to the image, which results in increasing image quality or resolution of the image. In other words, low frequency features (images at the left) captures the global features of the image, like face of a woman. The high frequency features (images at the right) correspond to the local features of the image like texture of eyes or hair, that helps it to build a higher quality image.&lt;/p&gt;
+&lt;p&gt;(d) How can we use DCT to extract these global and local features? Let &lt;em&gt;k&lt;/em&gt; be an anti-diagonal level in DCT matrix. In the top row images, the non-zero DCT matrix elements are shown in black, whereas the masked-out elements of the DCT matrix have been shown in white.  The frequency at a given level is more or less same, as seen in Figure (b). This implies that all the elements at a given level of &lt;em&gt;k&lt;/em&gt; contain similar abstract information about the image. Now coming back to figure (d), as we go from left to right for the top row of images, we add a new level &lt;em&gt;k&lt;/em&gt; or more local features to our image. And in the bottom row of images, starting from the most high level feature of the image, the image of Barack Obama becomes increasingly sharp due to increasing local features. Therefore, the different levels of &lt;em&gt;k&lt;/em&gt; in a DCT matrix constitutes the global or local features of the image.&lt;/p&gt;
+&lt;p&gt;(e) What can we do with these global and local features of an image? The main goal of high quality image generation is to learn these global and local features accurately. This has been solved in literature in two paradigms: (1) There are different models that specialize in learning the global or local features and they are trained jointly (like in VAE + Autoregressive models). (2) The model implicitly learns about the global and local features in different levels of hierarchy (like in Hierarchical VAE). But in both these paradigms, the models have to learn about global and local features of the images without access to these features. In Figure (e), we show that our proposed approach can improve the performance of any image generation model by explicitly using the global and local features. In this figure, we show that compared to Vanilla VAE (2nd row) and Perceptual VAE (3rd row), our approach helps the model to learn the global and local features accurately. Specifically, we can see that hairs and eyes of the faces generated by our approach are much sharper than the baselines.&lt;/p&gt;
+&lt;p&gt;This is an ongoing research project. If this sounds interesting, for further details or future collaboration opportunities, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
-      <link>https://sabyasachis.github.io/publication/rude/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>https://sabyasachis.github.io/publication/rude/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <title>Review of Image to Image Translation - Methods and Applications</title>
+      <link>https://sabyasachis.github.io/talk/i2i-review/</link>
+      <pubDate>Mon, 15 Mar 2021 10:00:00 +0000</pubDate>
+      <guid>https://sabyasachis.github.io/talk/i2i-review/</guid>
+      <description>&lt;p&gt;In this talk, I review Image to Image Translation. First, we go over different types of image to image translation. Next, we look at following popular image to image translation methods: pix2pix, GauGAN, CycleGAN, UNIT, MUNIT, and StarGAN. Finally, we look at various applications of image to image translation that are relevant to autonomous driving.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder</title>
       <link>https://sabyasachis.github.io/publication/dslr/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/dslr/</guid>
       <description></description>
     </item>

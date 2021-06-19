@@ -5,7 +5,7 @@
     <link>https://sabyasachis.github.io/publication_types/0/</link>
       <atom:link href="https://sabyasachis.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://sabyasachis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
@@ -13,38 +13,71 @@
     </image>
     
     <item>
-      <title>CID : Captioning for Interpretability and Disentanglement</title>
+      <title>Defending adversarial attacks on heatmap explanations using optimal ensembling</title>
+      <link>https://sabyasachis.github.io/publication/adversarial-xai/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/adversarial-xai/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unpaired LiDAR to LiDAR translation</title>
+      <link>https://sabyasachis.github.io/publication/dslrv2/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://sabyasachis.github.io/publication/dslrv2/</guid>
+      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Automatic Concept Extraction on Chest X-Rays</title>
       <link>https://sabyasachis.github.io/publication/cid/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/cid/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <description>&lt;p&gt;(a) Patterns (or abstract concepts) identified by AIIMS as COVID-19 features. Can we extract them from a COVID-19 Dataset using a pre-trained model? Yes, using Automatic Concept Extraction or ACE. Next, we run ACE on a PASCAL VOC dataset to demonstrate its effectiveness for extracting such concepts automatically from a dataset and a pre-trained model and also evaluate its concept extraction performance.&lt;/p&gt;
+&lt;p&gt;(b) Here, we run ACE to extract high-level concepts for the &amp;ldquo;Garbage-Truck&amp;rdquo; class and show the top 3 extracted concept clusters using ACE. The top 3 extracted concepts are &amp;ldquo;road&amp;rdquo;, &amp;ldquo;sky&amp;rdquo;, and &amp;ldquo;road&amp;rdquo; for &amp;ldquo;Garbage Truck&amp;rdquo;. But these are not the concepts that humans typically look for to identify garbage trucks. Can we improve the concept extraction? Yes. Our proposed approach attempts to address most of the problems in ACE.&lt;/p&gt;
+&lt;p&gt;(c) Here, we show that the top 3 concepts identified by our method for the &amp;ldquo;Garbage-Truck&amp;rdquo; class are &amp;ldquo;body of the truck&amp;rdquo;, &amp;ldquo;trees&amp;rdquo;, and &amp;ldquo;rear-view mirror&amp;rdquo;. And these are the concepts that humans also look for while trying to identify a garbage truck. And these concepts were extracted only using a pre-trained model and classification dataset.&lt;/p&gt;
+&lt;p&gt;As a next step, we will use our proposed approach on medical imaging datasets to extract COVID-19 concepts and get it validated by radiologists.&lt;/p&gt;
+&lt;p&gt;This is an ongoing research project. If this sounds interesting, for further details or future collaboration opportunities, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>HRHQ : High Resolution High Quality image generation and disentanglement</title>
+      <title>DCT-VAE: Capturing Low level and High Level features for image generation</title>
       <link>https://sabyasachis.github.io/publication/hrhq/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/hrhq/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <description>&lt;p&gt;(a) What is DCT? Figure (a) shows how f(x,y), an image in spatial domain, can be converted to F(u,v), in frequency domain, using Discrete Cosine Transform or DCT. The original image f(x,y) can be exactly recovered from F(u,v), the image in frequency domain, using inverse DCT or IDCT.&lt;/p&gt;
+&lt;p&gt;(b) What does it mean to convert an original image to DCT matrix? Figure (b) shows the frequency in black and white, corresponding to each element in DCT matrix. The numbers are the elements of the DCT matrix and denote the coefficients for the frequency. They are obtained after applying DCT on original images. We can see that upper left elements of the DCT matrix correspond to low frequency. As we go down and towards right, we see the elements of DCT matrix corresponding to higher frequencies gradually.&lt;/p&gt;
+&lt;p&gt;(c) Why do we care about different frequencies of original images? Figure (c) shows that as we go from left to right, we add higher frequency details to the image, which results in increasing image quality or resolution of the image. In other words, low frequency features (images at the left) captures the global features of the image, like face of a woman. The high frequency features (images at the right) correspond to the local features of the image like texture of eyes or hair, that helps it to build a higher quality image.&lt;/p&gt;
+&lt;p&gt;(d) How can we use DCT to extract these global and local features? Let &lt;em&gt;k&lt;/em&gt; be an anti-diagonal level in DCT matrix. In the top row images, the non-zero DCT matrix elements are shown in black, whereas the masked-out elements of the DCT matrix have been shown in white.  The frequency at a given level is more or less same, as seen in Figure (b). This implies that all the elements at a given level of &lt;em&gt;k&lt;/em&gt; contain similar abstract information about the image. Now coming back to figure (d), as we go from left to right for the top row of images, we add a new level &lt;em&gt;k&lt;/em&gt; or more local features to our image. And in the bottom row of images, starting from the most high level feature of the image, the image of Barack Obama becomes increasingly sharp due to increasing local features. Therefore, the different levels of &lt;em&gt;k&lt;/em&gt; in a DCT matrix constitutes the global or local features of the image.&lt;/p&gt;
+&lt;p&gt;(e) What can we do with these global and local features of an image? The main goal of high quality image generation is to learn these global and local features accurately. This has been solved in literature in two paradigms: (1) There are different models that specialize in learning the global or local features and they are trained jointly (like in VAE + Autoregressive models). (2) The model implicitly learns about the global and local features in different levels of hierarchy (like in Hierarchical VAE). But in both these paradigms, the models have to learn about global and local features of the images without access to these features. In Figure (e), we show that our proposed approach can improve the performance of any image generation model by explicitly using the global and local features. In this figure, we show that compared to Vanilla VAE (2nd row) and Perceptual VAE (3rd row), our approach helps the model to learn the global and local features accurately. Specifically, we can see that hairs and eyes of the faces generated by our approach are much sharper than the baselines.&lt;/p&gt;
+&lt;p&gt;This is an ongoing research project. If this sounds interesting, for further details or future collaboration opportunities, please contact me.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>RUDE : 3d Reconstruction Using DisEntanglement</title>
-      <link>https://sabyasachis.github.io/publication/rude/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>https://sabyasachis.github.io/publication/rude/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Domain Adaption for cross domain Lung Segmentation on Chest Xray Images</title>
+      <title>Towards Understanding Domain Adaptation quantitatively</title>
       <link>https://sabyasachis.github.io/publication/uda-seg/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/uda-seg/</guid>
-      <description>&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
+      <description>&lt;p&gt;In this project, we seek to address the following problems in domain adaptation (DA):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How can we meaningfully quantify or characterize the domain gap between two datasets from different domains?&lt;/li&gt;
+&lt;li&gt;What practices during model training/testing help/hinder DA?&lt;/li&gt;
+&lt;li&gt;How does domain adaptation change in the following settings:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Supervision&lt;/li&gt;
+&lt;li&gt;Domain gap&lt;/li&gt;
+&lt;li&gt;Model architecture&lt;/li&gt;
+&lt;li&gt;Loss function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Can we perform AutoDA or Automatic Domain adaptation for any two datasets using the above information?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is an ongoing research project. For further details, please contact me.&lt;/p&gt;
 </description>
     </item>
     
