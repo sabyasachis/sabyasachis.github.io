@@ -211,7 +211,7 @@
     </item>
     
     <item>
-      <title>Proximal pose search for adapting SLAM in dynamic environments on slow moving UGVs.</title>
+      <title>Proximal pose search for adapting SLAM in dynamic environments on slow moving UGVs</title>
       <link>https://sabyasachis.github.io/publication/proximal-pose/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0530</pubDate>
       <guid>https://sabyasachis.github.io/publication/proximal-pose/</guid>
@@ -356,7 +356,7 @@ $$MSE &amp;lt; O((pn)^{-1/5})$$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[18/02/19]&lt;/strong&gt; I am joining Machine Learning Lab, IISc as Research Associate under the guidance of &lt;a href=&#34;https://www.csa.iisc.ac.in/~chiru/&#34;&gt;Prof. Chiranjib Bhattacharyya&lt;/a&gt;. I will also be affiliated to &lt;a href=&#34;https://cps.iisc.ac.in/&#34;&gt;RBCCPS&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[01/06/18]&lt;/strong&gt; I am joining &lt;a href=&#34;https://icecreamlabs.com/&#34;&gt;Donut Research Labs&lt;/a&gt; as Deep Learning Engineer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[30/04/18]&lt;/strong&gt; I finish 3rd place on &lt;a href=&#34;https://www.so1.ai/&#34;&gt;SO1&lt;/a&gt; Customer Basket Prediction. &lt;a href=&#34;https://github.com/sabyasachis/basket_prediction&#34;&gt;Code&lt;/a&gt; and &lt;a href=&#34;../project/basket-pred/&#34;&gt;Project Page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[30/03/18]&lt;/strong&gt; I am finalist in &lt;a href=&#34;https://github.com/lexfridman/deeptraffic&#34;&gt;Deep Traffic&lt;/a&gt; competition at NVIDIA. &lt;a href=&#34;http://localhost:1313/project/deep-traffic/&#34;&gt;Project Page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[30/03/18]&lt;/strong&gt; I am finalist in &lt;a href=&#34;https://github.com/lexfridman/deeptraffic&#34;&gt;Deep Traffic&lt;/a&gt; competition at NVIDIA. &lt;a href=&#34;../project/deep-traffic/&#34;&gt;Project Page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[30/01/18]&lt;/strong&gt; I am winner of &lt;a href=&#34;https://medium.com/nurture-ai/sabyasachi-sahoo-bringing-nlp-and-rl-together-65e135cd48e1&#34;&gt;Global NIPS Paper Implementation Challenge&lt;/a&gt;. &lt;a href=&#34;https://github.com/sabyasachis/thyFriendMyFriend&#34;&gt;Code&lt;/a&gt; and &lt;a href=&#34;../project/recomm-sys/&#34;&gt;Project Page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[08/08/16]&lt;/strong&gt; I am joining &lt;a href=&#34;https://www.nvidia.com/en-in/&#34;&gt;NVIDIA&lt;/a&gt; Bangalore as System Software Engineer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[31/07/16]&lt;/strong&gt; I release my &lt;a href=&#34;../publication/mtech/Mtech_Thesis.pdf&#34;&gt;M.Tech Thesis&lt;/a&gt; titled &amp;ldquo;&lt;a href=&#34;../publication/mtech&#34;&gt;Hierarchical Task Mapping on Dragonfly topology for scaling Molecular Dynamics&lt;/a&gt;&amp;rdquo;. Awarded distinction.&lt;/p&gt;
