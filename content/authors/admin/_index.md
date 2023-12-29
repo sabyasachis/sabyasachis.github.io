@@ -130,7 +130,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate at Mila and Université Laval. I am very fortunate to be advised by [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), Mila & Université Laval and [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), INRIA & Université Côte d'Azur.
+I am a Ph.D. candidate at Mila, IID and Université Laval. I am very fortunate to be advised by [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), Mila, IID, Université Laval and [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), INRIA, Université Côte d'Azur.
 {style="text-align: justify;"}
 
 I am interested in building robust machine learning systems for real world deployment. Currently, I work on test time adaptation, out-of-distribution generalization and online finetuning. I also actively collaborate on out-of-distribution detection, adversarial robustness, continual learning, foundation models, model explainability, autonomous navigation, and AI in healthcare. For more information, check out my [CV](uploads/resume.pdf).
