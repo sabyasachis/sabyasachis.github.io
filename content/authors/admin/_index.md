@@ -31,7 +31,7 @@ organizations:
    url: "https://www.ulaval.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robust machine learning, test time adaptation and out of distribution generalization/detection.
+bio: My research interests include machine learning, robustness, out of distribution and online learning.
 
 # Interests to show in About widget
 interests:
@@ -100,22 +100,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'  # For a direct email link, use "mailto:test@example.org" or "mailto:iamsabyasachisahoo@gmail.com".
+    link: "mailto:iamsabyasachisahoo@gmail.com"  # For a direct email link, use "mailto:test@example.org" or '/#contact'.
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/saby_tweets
-  - icon: user-graduate
-    icon_pack: fas
-    link: https://mila.quebec/en/person/sabyasachi-sahoo/
+  # - icon: user-graduate
+  #   icon_pack: fas
+  #   link: https://mila.quebec/en/person/sabyasachi-sahoo/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=hgTsWBgAAAAJ
-  - icon: medium
-    icon_pack: fab
-    link: https://medium.com/@ssahoo.ai
+  # - icon: medium
+  #   icon_pack: fab
+  #   link: https://medium.com/@ssahoo.ai
   - icon: github
     icon_pack: fab
     link: https://github.com/sabyasachis
@@ -130,9 +130,13 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. student at Mila and Université Laval. I am very fortunate to be advised by [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), Mila & Université Laval and [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), INRIA & Université Côte d'Azur. I am also affiliated to ARTPARK as a Consultant.
-
-I am interested in building robust machine learning systems for real world deployment. Currently, I work on test time adaptation, out-of-distribution generalization and online finetuning. I also actively collaborate on foundation models, out-of-distribution detection, adversarial robustness, continual learning, model explainability, autonomous navigation, and AI in healthcare. For more information, check out my [Research Works](/publication) or [Explore by Keywords](/#tags) below.
-
-Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/), where I worked on explainable AI, medical AI and robotics.  Prior to this, I worked on image and text based research projects at [Donut Research Labs](https://www.linkedin.com/company/icecreamlabs) and was part of self-driving software team at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore.
+I am a Ph.D. candidate at Mila and Université Laval. I am very fortunate to be advised by [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), Mila & Université Laval and [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), INRIA & Université Côte d'Azur.
 {style="text-align: justify;"}
+
+I am interested in building robust machine learning systems for real world deployment. Currently, I work on test time adaptation, out-of-distribution generalization and online finetuning. I also actively collaborate on out-of-distribution detection, adversarial robustness, continual learning, foundation models, model explainability, autonomous navigation, and AI in healthcare. For more information, check out my [CV](uploads/resume.pdf).
+{style="text-align: justify;"}
+
+Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/).  Prior to this, I have worked as DL Engineer at [Donut Research Labs](https://www.linkedin.com/company/icecreamlabs) and was part of self-driving software team at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore.
+{style="text-align: justify;"}
+
+(Website under re-construction)
