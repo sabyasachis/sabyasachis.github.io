@@ -130,13 +130,16 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate at Mila, IID and Université Laval. I am very fortunate to be advised by [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), Mila, IID, Université Laval and [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), INRIA, Université Côte d'Azur.
+I am a Ph.D. candidate at Mila/Université Laval and affiliated to Inria and IID. I am very fortunate to be advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/).
 {style="text-align: justify;"}
 
-I am interested in building robust machine learning systems for real world deployment. Currently, I work on test time adaptation, out-of-distribution generalization and online finetuning. I also actively collaborate on out-of-distribution detection, adversarial robustness, continual learning, foundation models, model explainability, autonomous navigation, and AI in healthcare. For more information, check out my [CV](uploads/resume.pdf).
+Currently, my research is focused on developing reliable foundation models, including LLMs, VLMs, and ViTs. I am interested in improving the zero-shot generalization capabilities of pretrained models across diverse datasets and improving the performance of LORA-style fine-tuning while minimizing catastrophic forgetting. I am also exploring novel methods for mechanistic interpretability and improving defense against adversarial attacks.
 {style="text-align: justify;"}
 
-Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/).  Prior to this, I have worked as DL Engineer at [Donut Research Labs](https://www.linkedin.com/company/icecreamlabs) and was part of self-driving software team at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore.
+In my research journey so far, I have published 4 papers in top-tier conferences and journals and 2 in workshops. Additionally, I have 3 papers currently under review. My research interests span various topics, including test-time adaptation, continual learning, out-of-distribution detection, adversarial robustness, domain generalization, multi-task learning, model explainability, and image generation. For more information, check out my [CV](uploads/resume.pdf).
 {style="text-align: justify;"}
 
-(Website under re-construction)
+Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/).  Prior to this, I have worked as DL Engineer at [Donut Research Labs](https://www.icecreamlabs.com/) and was part of self-driving software team at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore. My industry experience has allowed me to hone my skills in developing version-controlled, well-documented codebases. I have also had the opportunity to collaborate with multidisciplinary teams to enhance the performance of deep learning models in production environments.
+{style="text-align: justify;"}
+
+(Looking for research internships.)
