@@ -133,14 +133,20 @@ highlight_name: true
 I am a Ph.D. candidate at Mila/Université Laval and affiliated to Inria and IID. I am very fortunate to be advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/).
 {style="text-align: justify;"}
 
-Currently, my research is focused on developing reliable foundation models, including LLMs, VLMs, and ViTs. I am interested in improving the zero-shot generalization capabilities of pretrained models across diverse datasets and improving the performance of LORA-style fine-tuning while minimizing catastrophic forgetting. I am also exploring novel methods for mechanistic interpretability and improving defense against adversarial attacks.
-{style="text-align: justify;"}
-
+<!-- Currently, my research is focused on developing reliable foundation models, including LLMs, VLMs, and ViTs. I am interested in improving the zero-shot generalization capabilities of pretrained models across diverse datasets and improving the performance of LORA-style fine-tuning while minimizing catastrophic forgetting. I am also exploring novel methods for mechanistic interpretability and improving defense against adversarial attacks.
+{style="text-align: justify;"} -->
 <!-- In my research journey so far, I have published 4 papers in top-tier conferences and journals and 2 in workshops. Additionally, I have 3 papers currently under review. -->
-My research interests span various topics, including test-time adaptation, continual learning, out-of-distribution detection, adversarial robustness, domain generalization, multi-task learning, model explainability, and image generation. For more information, check out my [CV](uploads/resume.pdf).
+
+I am broadly interested in understanding and improving robustness and generalization properties of machine learning models. I am also interested in improving test-time capabilities of foundation models.
+Research keywords include test-time adaptation, continual learning, out-of-distribution detection, adversarial robustness, domain generalization, generative modelling, explainability, and foundation models. For more information, check out my [CV](uploads/resume.pdf).
 {style="text-align: justify;"}
 
-Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/).  Prior to this, I have worked as DL Engineer at [Donut Research Labs](https://www.icecreamlabs.com/) and was part of self-driving software team at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore. My industry experience has allowed me to hone my skills in developing version-controlled, well-documented codebases. I have also had the opportunity to collaborate with multidisciplinary teams to enhance the performance of deep learning models in production environments.
+Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/).  Prior to this, I have worked as DL Engineer at [Donut Research Labs](https://www.icecreamlabs.com/) and was part of self-driving software team at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore.
 {style="text-align: justify;"}
 
-(Looking for research internships.)
+<!-- My industry experience has allowed me to hone my skills in developing version-controlled, well-documented codebases. I have also had the opportunity to collaborate with multidisciplinary teams to enhance the performance of deep learning models in production environments. -->
+
+<!-- (I am looking for research internships.) -->
+
+Interested in learning more about my research or discuss a potential collaboration? Please feel free to ping me on [Linkedin](https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/) or [email](mailto:iamsabyasachisahoo@gmail.com).
+{style="text-align: justify;"}
