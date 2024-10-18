@@ -35,10 +35,11 @@ bio: My research interests include machine learning, robustness, out of distribu
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Robustness
-  - Out of Distribution
-  - Online Learning
+  - Machine learning
+  - Generalization & robustness
+  - Continual learning
+  - Test time capabilities
+  - Foundation models
 
 # Education to show in About widget
 education:
@@ -130,22 +131,15 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate at Mila/Université Laval and affiliated to Inria and IID. I am very fortunate to be advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/).
+I am a Ph.D. candidate at Mila/Université Laval and affiliated to Inria and IID. I am fortunate to be advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/).
 {style="text-align: justify;"}
 
-<!-- Currently, my research is focused on developing reliable foundation models, including LLMs, VLMs, and ViTs. I am interested in improving the zero-shot generalization capabilities of pretrained models across diverse datasets and improving the performance of LORA-style fine-tuning while minimizing catastrophic forgetting. I am also exploring novel methods for mechanistic interpretability and improving defense against adversarial attacks.
-{style="text-align: justify;"} -->
-<!-- In my research journey so far, I have published 4 papers in top-tier conferences and journals and 2 in workshops. Additionally, I have 3 papers currently under review. Research keywords include test-time adaptation, continual learning, out-of-distribution detection, adversarial robustness, domain generalization, generative modelling, explainability, and foundation models. -->
-
-I focus on understanding and improving robustness and generalization of machine learning models. I am also interested in improving test-time capabilities of foundation models, similar to [o1](https://openai.com/index/introducing-openai-o1-preview/) models. I dabbled in generative modelling before it was cool and was fortunate to deploy my research in applications like self-driving cars and medical imaging. For a comprehensive overview of my work, please refer to my [CV](uploads/resume.pdf).
+I work on understanding and improving generalization and robustness of machine learning models. I am also interested in improving test-time capabilities of foundation models, akin to [o1](https://openai.com/index/introducing-openai-o1-preview/) models. I dabbled in generative modelling before it was cool and deployed my research in applications like self-driving cars and medical imaging. For a comprehensive overview of my work, please refer to my [CV](uploads/resume.pdf).
 {style="text-align: justify;"}
 
-Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/).  Prior to this, I have worked as Deep Learning Engineer at [Donut Research Labs](https://www.icecreamlabs.com/) and was part of self-driving software team at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore.
-{style="text-align: justify;"}
+Previously, I was a Research Associate at the ML Lab, IISc Bangalore, under the guidance of [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). Before that, I worked with the NLP team at [Donut Research Labs](https://www.icecreamlabs.com/) and the self-driving team at [NVIDIA](https://www.nvidia.com/en-in/). {style="text-align: justify;"}
 
-<!-- My industry experience has allowed me to hone my skills in developing version-controlled, well-documented codebases. I have also had the opportunity to collaborate with multidisciplinary teams to enhance the performance of deep learning models in production environments. -->
+<!-- (I am looking for research internships. Thank you for checking out this repo!) -->
 
-<!-- (I am looking for research internships.) -->
-
-Interested in learning more about my research or discuss a potential collaboration? Ping me on [Linkedin](https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/) or [email](mailto:iamsabyasachisahoo@gmail.com).
+Interested in learning more about my work or discuss a potential collaboration? Ping me on [Linkedin](https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/) or [email](mailto:iamsabyasachisahoo@gmail.com).
 {style="text-align: justify;"}
