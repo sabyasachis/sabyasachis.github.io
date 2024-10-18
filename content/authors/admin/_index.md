@@ -134,10 +134,11 @@ highlight_name: true
 I am a Ph.D. candidate at Mila/Université Laval and affiliated to Inria and IID. I am fortunate to be advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/).
 {style="text-align: justify;"}
 
-I work on understanding and improving generalization and robustness of machine learning models. I am also interested in improving test-time capabilities of foundation models, akin to [o1](https://openai.com/index/introducing-openai-o1-preview/) models. I dabbled in generative modelling before it was cool and deployed my research in applications like self-driving cars and medical imaging. For a comprehensive overview of my work, please refer to my [CV](uploads/resume.pdf).
+I work on understanding and improving generalization and robustness of machine learning models. I am also interested in improving test-time capabilities of foundation models, akin to [o1](https://github.com/srush/awesome-o1/?tab=readme-ov-file) models. I dabbled in generative modelling before it was cool and deployed my research in applications like self-driving cars and medical imaging. For a comprehensive overview of my work, please refer to my [CV](uploads/resume.pdf).
 {style="text-align: justify;"}
 
-Previously, I was a Research Associate at the ML Lab, IISc Bangalore, under the guidance of [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). Before that, I worked with the NLP team at [Donut Research Labs](https://www.icecreamlabs.com/) and the self-driving team at [NVIDIA](https://www.nvidia.com/en-in/). {style="text-align: justify;"}
+Previously, I was a Research Associate at the ML Lab, IISc Bangalore, under the guidance of [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). Before that, I worked with the NLP team at [Donut Research Labs](https://www.icecreamlabs.com/) and the self-driving team at [NVIDIA](https://www.nvidia.com/en-in/).
+{style="text-align: justify;"}
 
 <!-- (I am looking for research internships. Thank you for checking out this repo!) -->
 
