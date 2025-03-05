@@ -11,5 +11,6 @@ date: '2025-01-01'
 publishDate: '2025-03-05T20:09:31.089623Z'
 publication_types:
 - paper-conference
-publication: '*Association for the Advancement of Artificial Intelligence Conference*'
+publication: '*AAAI*'
+url_preprint: 'https://arxiv.org/abs/2404.03784'
 ---
