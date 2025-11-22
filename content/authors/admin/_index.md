@@ -134,10 +134,14 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate at Mila/Université Laval, affiliated with Inria and IID, advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/). I am also an incoming research intern at ServiceNow. {style="text-align: justify;"}
+I am a PhD candidate at Mila/Université Laval, affiliated with Inria and IID, advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/). I am also an incoming research intern at ServiceNow.
+{style="text-align: justify;"}
 
-My research centers on reasoning, generalization, robustness, and efficient adaptation of foundation models, with a particular focus on making large models work reliably on new tasks and realistic compute/data budgets. At ServiceNow, I will work on finetuning vision–language models for web agents. Previously at Amazon, I worked on improving LLM finetuning for reasoning-based tasks. During my PhD, I have explored layer selection for test-time adaptation, out-of-distribution detection, zero-shot CLIP adaptation, and adversarial robustness. {style="text-align: justify;"}
+My research centers on reasoning, generalization, robustness, and efficient adaptation of foundation models, with a particular focus on making large models work reliably on new tasks and realistic compute/data budgets. At ServiceNow, I will work on finetuning vision–language models for web agents. Previously at Amazon, I worked on improving LLM finetuning for reasoning-based tasks. During my PhD, I have explored layer selection for test-time adaptation, out-of-distribution detection, zero-shot CLIP adaptation, and adversarial robustness.
+{style="text-align: justify;"}
 
-Prior to my PhD, I worked on self-driving at NVIDIA, NLP for e-commerce at Donut Research Labs, and machine learning for robotics and medical imaging as a Research Associate at IISc Bangalore. These experiences shaped my current interest in bridging rigorous ML research with real-world, safety-critical applications. {style="text-align: justify;"}
+Prior to my PhD, I worked on self-driving at NVIDIA, NLP for e-commerce at Donut Research Labs, and machine learning for robotics and medical imaging as a Research Associate at IISc Bangalore. These experiences shaped my current interest in bridging rigorous ML research with real-world, safety-critical applications.
+{style="text-align: justify;"}
 
-Interested in learning more about my work or discuss a potential collaboration? Ping me on [Linkedin](https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/) or [email](mailto:iamsabyasachisahoo@gmail.com). {style="text-align: justify;"}
+Interested in learning more about my work or discuss a potential collaboration? Ping me on [Linkedin](https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/) or [email](mailto:iamsabyasachisahoo@gmail.com).
+{style="text-align: justify;"}
