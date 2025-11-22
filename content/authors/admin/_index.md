@@ -23,10 +23,12 @@ role: Ph.D. Candidate
 organizations:
  - name: Mila
    url: "https://mila.quebec/en/"
+ - name: Inria
+   url: "https://team.inria.fr/maasai/"
  - name: IID
    url: "https://iid.ulaval.ca/"
- - name: EECE
-   url: "https://www.gelgif.ulaval.ca/"
+ - name: LVSN
+   url: "https://vision.fsg.ulaval.ca"
  - name: Université Laval
    url: "https://www.ulaval.ca/"
 
@@ -35,17 +37,18 @@ bio: My research interests include machine learning, robustness, out of distribu
 
 # Interests to show in About widget
 interests:
-  - Machine learning
-  - Generalization & robustness
-  - Continual learning
-  - Test time capabilities
-  - Foundation models
+  - Reasoning
+  - Generalization
+  - Robustness
+  - Efficiency
+  - Finetuning
+  - Foundation models (LLM/VLM)
 
 # Education to show in About widget
 education:
   courses:
     - course: Doctor of Philosophy
-      institution: Mila & Université Laval
+      institution: Mila, Inria, Université Laval
       year: 2021 - Present
     - course: Master of Technology
       institution: Indian Institute of Science, Bangalore
@@ -131,16 +134,10 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate at Mila/Université Laval and affiliated to Inria and IID. I am fortunate to be advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/).
-{style="text-align: justify;"}
+I am a PhD candidate at Mila/Université Laval, affiliated with Inria and IID, advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/). I am also an incoming research intern at ServiceNow. {style="text-align: justify;"}
 
-I work on understanding and improving generalization and robustness of machine learning models. I am also interested in improving test-time capabilities of foundation models, akin to [o1](https://github.com/srush/awesome-o1/?tab=readme-ov-file) models. I dabbled in generative modelling before it was cool and deployed my research in applications like self-driving cars and medical imaging. For a comprehensive overview of my work, please refer to my [CV](uploads/resume.pdf).
-{style="text-align: justify;"}
+My research centers on reasoning, generalization, robustness, and efficient adaptation of foundation models, with a particular focus on making large models work reliably on new tasks and realistic compute/data budgets. At ServiceNow, I will work on finetuning vision–language models for web agents. Previously at Amazon, I worked on improving LLM finetuning for reasoning-based tasks. During my PhD, I have explored layer selection for test-time adaptation, out-of-distribution detection, zero-shot CLIP adaptation, and adversarial robustness. {style="text-align: justify;"}
 
-Previously, I was a Research Associate at the ML Lab, IISc Bangalore, under the guidance of [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). Before that, I worked with the NLP team at [Donut Research Labs](https://www.icecreamlabs.com/) and the self-driving team at [NVIDIA](https://www.nvidia.com/en-in/).
-{style="text-align: justify;"}
+Prior to my PhD, I worked on self-driving at NVIDIA, NLP for e-commerce at Donut Research Labs, and machine learning for robotics and medical imaging as a Research Associate at IISc Bangalore. These experiences shaped my current interest in bridging rigorous ML research with real-world, safety-critical applications. {style="text-align: justify;"}
 
-<!-- (I am looking for research internships. Thank you for checking out this repo!) -->
-
-Interested in learning more about my work or discuss a potential collaboration? Ping me on [Linkedin](https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/) or [email](mailto:iamsabyasachisahoo@gmail.com).
-{style="text-align: justify;"}
+Interested in learning more about my work or discuss a potential collaboration? Ping me on [Linkedin](https://www.linkedin.com/in/sabyasachi-sahoo-872789b6/) or [email](mailto:iamsabyasachisahoo@gmail.com). {style="text-align: justify;"}
