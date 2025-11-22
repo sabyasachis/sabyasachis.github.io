@@ -132,9 +132,11 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# I am also an incoming research intern at ServiceNow.
 ---
 
-I am a PhD candidate at Mila/Université Laval, affiliated with Inria and IID, advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/). I am also an incoming research intern at ServiceNow.
+I am a PhD candidate at Mila/Université Laval, affiliated with Inria and IID, advised by [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/) and [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/).
 {style="text-align: justify;"}
 
 My research centers on reasoning, generalization, robustness, and efficient adaptation of foundation models, with a particular focus on making large models work reliably on new tasks and realistic compute/data budgets. At ServiceNow, I will work on finetuning vision–language models for web agents. Previously at Amazon, I worked on improving LLM finetuning for reasoning-based tasks. During my PhD, I have explored layer selection for test-time adaptation, out-of-distribution detection, zero-shot CLIP adaptation, and adversarial robustness.
